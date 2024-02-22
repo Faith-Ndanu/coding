@@ -1,0 +1,48 @@
+2024/02/21-23:01:00.817 4 Reusing MANIFEST /home/student/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/02/21-23:01:00.819 4 Recovering log #97
+2024/02/21-23:01:00.820 4 Reusing old log /home/student/.config/google-chrome/Default/Local Storage/leveldb/000097.log 
+2024/02/21-23:25:08.869 6 Level-0 table #101: started
+2024/02/21-23:25:08.874 6 Level-0 table #101: 46474 bytes OK
+2024/02/21-23:25:08.880 6 Delete type=0 #97
+2024/02/21-23:39:54.052 6 Level-0 table #103: started
+2024/02/21-23:39:54.055 6 Level-0 table #103: 40504 bytes OK
+2024/02/21-23:39:54.058 6 Delete type=0 #100
+2024/02/21-23:39:54.060 6 Compacting 4@0 + 1@1 files
+2024/02/21-23:39:54.065 6 Generated table #104@0: 710 keys, 281736 bytes
+2024/02/21-23:39:54.065 6 Compacted 4@0 + 1@1 files => 281736 bytes
+2024/02/21-23:39:54.068 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/21-23:39:54.068 6 Delete type=2 #101
+2024/02/21-23:39:54.068 6 Delete type=2 #103
+2024/02/21-23:39:54.068 6 Delete type=2 #98
+2024/02/21-23:39:54.068 6 Delete type=2 #94
+2024/02/21-23:39:54.068 6 Delete type=2 #96
+2024/02/22-01:52:15.524 6 Level-0 table #106: started
+2024/02/22-01:52:15.528 6 Level-0 table #106: 44526 bytes OK
+2024/02/22-01:52:15.532 6 Delete type=0 #102
+2024/02/22-02:31:06.962 6 Level-0 table #108: started
+2024/02/22-02:31:06.965 6 Level-0 table #108: 58230 bytes OK
+2024/02/22-02:31:06.968 6 Delete type=0 #105
+2024/02/22-03:12:51.657 6 Level-0 table #110: started
+2024/02/22-03:12:51.661 6 Level-0 table #110: 51926 bytes OK
+2024/02/22-03:12:51.665 6 Delete type=0 #107
+2024/02/22-03:22:44.331 6 Level-0 table #112: started
+2024/02/22-03:22:44.336 6 Level-0 table #112: 56447 bytes OK
+2024/02/22-03:22:44.340 6 Delete type=0 #109
+2024/02/22-03:22:44.340 6 Compacting 4@0 + 1@1 files
+2024/02/22-03:22:44.346 6 Generated table #113@0: 750 keys, 281404 bytes
+2024/02/22-03:22:44.346 6 Compacted 4@0 + 1@1 files => 281404 bytes
+2024/02/22-03:22:44.349 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/22-03:22:44.349 6 Delete type=2 #108
+2024/02/22-03:22:44.349 6 Delete type=2 #112
+2024/02/22-03:22:44.349 6 Delete type=2 #110
+2024/02/22-03:22:44.349 6 Delete type=2 #106
+2024/02/22-03:22:44.349 6 Delete type=2 #104
+2024/02/22-04:50:24.636 4 Level-0 table #115: started
+2024/02/22-04:50:24.640 4 Level-0 table #115: 49158 bytes OK
+2024/02/22-04:50:24.644 4 Delete type=0 #111
+2024/02/22-05:34:10.492 6 Level-0 table #117: started
+2024/02/22-05:34:10.497 6 Level-0 table #117: 43382 bytes OK
+2024/02/22-05:34:10.500 6 Delete type=0 #114
+2024/02/22-05:49:59.747 6 Level-0 table #119: started
+2024/02/22-05:49:59.752 6 Level-0 table #119: 30327 bytes OK
+2024/02/22-05:49:59.756 6 Delete type=0 #116

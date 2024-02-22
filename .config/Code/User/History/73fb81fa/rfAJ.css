@@ -1,0 +1,21 @@
+#form{
+    padding: 12px;
+    text-align: center;
+    width: 50%;
+    
+}
+    p{
+text-align: center;
+    }
+#button{
+    border-radius: 5px;
+    padding: 20px;
+    background-color: black;
+    color: aliceblue;
+    
+}
+    
+    #images{
+        height: 6px;
+        width: 3px;
+    }

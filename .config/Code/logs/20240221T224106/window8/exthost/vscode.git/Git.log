@@ -1,0 +1,231 @@
+2024-02-22 01:27:44.135 [info] Log level: Info
+2024-02-22 01:27:44.135 [info] Validating found git in: "git"
+2024-02-22 01:27:44.135 [info] Using git "2.34.1" from "git"
+2024-02-22 01:27:44.135 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-22 01:27:44.135 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.135 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-22 01:27:44.135 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.160 [info] > git rev-parse --show-toplevel [19ms]
+2024-02-22 01:27:44.160 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.182 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-22 01:27:44.182 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.191 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.191 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.199 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.199 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.206 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.206 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.215 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.215 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.224 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.224 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.235 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.235 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.244 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.244 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.252 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.252 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.261 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.261 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.270 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.280 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-22 01:27:44.293 [info] Open repository: /home/student/Css-Assignment
+2024-02-22 01:27:44.310 [info] > git config --get commit.template [9ms]
+2024-02-22 01:27:44.311 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.311 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.325 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [8ms]
+2024-02-22 01:27:44.327 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-22 01:27:44.327 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.343 [info] > git rev-parse --show-toplevel [11ms]
+2024-02-22 01:27:44.343 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.352 [info] > git status -z -uall [10ms]
+2024-02-22 01:27:44.366 [info] > git rev-parse --show-toplevel [15ms]
+2024-02-22 01:27:44.366 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.374 [info] > git config --get commit.template [9ms]
+2024-02-22 01:27:44.379 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-22 01:27:44.379 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.395 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.395 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.395 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-02-22 01:27:44.432 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-22 01:27:44.432 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.439 [info] > git status -z -uall [7ms]
+2024-02-22 01:27:44.447 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-22 01:27:44.447 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.456 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.456 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.465 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.465 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.473 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.473 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.516 [info] > git rev-parse --show-toplevel [36ms]
+2024-02-22 01:27:44.516 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.525 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:27:44.533 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-22 01:27:44.538 [info] Open repository: /home/student/css-assignment3
+2024-02-22 01:27:44.554 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.554 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.554 [info] > git config --get commit.template [9ms]
+2024-02-22 01:27:44.569 [info] > git rev-parse --show-toplevel [7ms]
+2024-02-22 01:27:44.569 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.580 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [12ms]
+2024-02-22 01:27:44.585 [info] > git rev-parse --show-toplevel [6ms]
+2024-02-22 01:27:44.585 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.600 [info] > git rev-parse --show-toplevel [8ms]
+2024-02-22 01:27:44.600 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.606 [info] > git status -z -uall [7ms]
+2024-02-22 01:27:44.618 [info] > git rev-parse --show-toplevel [12ms]
+2024-02-22 01:27:44.618 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.626 [info] > git config --get commit.template [8ms]
+2024-02-22 01:27:44.627 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 01:27:44.627 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 01:27:44.636 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-22 01:27:44.647 [info] > git status -z -uall [2ms]
+2024-02-22 01:27:45.070 [info] > git check-ignore -v -z --stdin [7ms]
+2024-02-22 01:27:45.071 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-22 01:28:53.968 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 01:28:53.968 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 02:25:31.909 [info] > git rev-parse --show-toplevel [9ms]
+2024-02-22 02:25:31.909 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:34:10.477 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 04:34:10.477 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:34:15.771 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 04:34:15.771 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:34:51.321 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:34:51.321 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:35:50.718 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:35:50.718 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:36:24.058 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:36:24.058 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:38:25.322 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:38:25.322 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:41:18.139 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:41:18.139 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:42:07.616 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 04:42:07.616 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:42:09.508 [info] > git rev-parse --show-toplevel [3ms]
+2024-02-22 04:42:09.508 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:42:33.600 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:42:33.600 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:42:38.878 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:42:38.878 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:45:25.678 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:45:25.678 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 04:55:29.268 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 04:55:29.268 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:05:21.826 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 05:05:21.826 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:06:11.818 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 05:06:11.818 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:10:54.154 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 05:10:54.154 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:15:40.196 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 05:15:40.196 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:16:43.847 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 05:16:43.847 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:18:55.047 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 05:18:55.047 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:19:25.220 [info] > git rev-parse --show-toplevel [2ms]
+2024-02-22 05:19:25.220 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:25:02.563 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 05:25:02.572 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-22 05:25:02.578 [info] Open repository: /home/student
+2024-02-22 05:25:02.589 [info] > git config --get commit.template [1ms]
+2024-02-22 05:25:02.598 [info] No remotes found in the git config file.
+2024-02-22 05:25:02.600 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-02-22 05:25:02.866 [info] > git status -z -uall [257ms] (cancelled)
+2024-02-22 05:25:03.088 [info] > git show --textconv :index.html [11ms]
+2024-02-22 05:25:03.089 [info] > git ls-files --stage -- /home/student/index.html [2ms]
+2024-02-22 05:25:03.118 [info] > git check-ignore -v -z --stdin [18ms]
+2024-02-22 05:25:03.119 [info] > git check-ignore -v -z --stdin [12ms]
+2024-02-22 05:25:03.119 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-22 05:25:27.947 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:25:27.957 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:26:14.746 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:26:14.756 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:28:55.940 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:28:55.948 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:28:55.959 [info] > git show --textconv :index.html [2ms]
+2024-02-22 05:29:13.512 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:29:13.521 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:29:13.531 [info] > git show --textconv :index.html [2ms]
+2024-02-22 05:30:44.105 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:30:44.114 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [2ms]
+2024-02-22 05:30:44.124 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:31:27.468 [info] > git ls-files --stage -- /home/student/index.html [2ms]
+2024-02-22 05:31:27.476 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:31:27.486 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:36:21.616 [info] > git show --textconv :style.css [10ms]
+2024-02-22 05:36:21.617 [info] > git ls-files --stage -- /home/student/style.css [2ms]
+2024-02-22 05:36:21.627 [info] > git cat-file -s 5c20dbcae7d341438f3e88efb6dbb599306a584e [2ms]
+2024-02-22 05:36:23.124 [info] > git show --textconv :index.html [8ms]
+2024-02-22 05:36:23.125 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:36:23.133 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:37:23.958 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:37:23.966 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:37:23.976 [info] > git show --textconv :index.html [2ms]
+2024-02-22 05:42:51.406 [info] > git ls-files --stage -- /home/student/index.html [11ms]
+2024-02-22 05:42:51.416 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [2ms]
+2024-02-22 05:42:51.435 [info] > git show --textconv :index.html [8ms]
+2024-02-22 05:43:19.241 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:43:19.251 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:43:31.197 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:43:31.207 [info] > git show --textconv :index.html [2ms]
+2024-02-22 05:44:26.277 [info] > git ls-files --stage -- /home/student/index.html [9ms]
+2024-02-22 05:44:26.285 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:44:26.301 [info] > git show --textconv :index.html [8ms]
+2024-02-22 05:46:35.658 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:46:35.667 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:46:42.411 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:46:42.421 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:47:56.844 [info] > git ls-files --stage -- /home/student/index.html [12ms]
+2024-02-22 05:47:56.853 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:47:56.870 [info] > git show --textconv :index.html [7ms]
+2024-02-22 05:48:22.141 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:48:22.150 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:48:27.753 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:48:27.762 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:50:57.916 [info] > git ls-files --stage -- /home/student/index.html [10ms]
+2024-02-22 05:50:57.925 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [2ms]
+2024-02-22 05:50:57.948 [info] > git show --textconv :index.html [7ms]
+2024-02-22 05:51:20.236 [info] > git ls-files --stage -- /home/student/index.html [9ms]
+2024-02-22 05:51:20.244 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:51:20.260 [info] > git show --textconv :index.html [8ms]
+2024-02-22 05:51:53.483 [info] > git ls-files --stage -- /home/student/index.html [12ms]
+2024-02-22 05:51:53.504 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [2ms]
+2024-02-22 05:51:53.544 [info] > git show --textconv :index.html [13ms]
+2024-02-22 05:52:56.862 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:52:56.872 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:52:58.262 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:52:58.262 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-02-22 05:52:58.883 [info] > git check-ignore -v -z --stdin [8ms]
+2024-02-22 05:52:58.883 [info] > git check-ignore -v -z --stdin [1ms]
+2024-02-22 05:53:12.275 [info] > git rev-parse --show-toplevel [1ms]
+2024-02-22 05:53:12.284 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2024-02-22 05:53:12.287 [info] Open repository: /home/student
+2024-02-22 05:53:12.296 [info] > git config --get commit.template [1ms]
+2024-02-22 05:53:12.303 [info] No remotes found in the git config file.
+2024-02-22 05:53:12.304 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-02-22 05:53:12.422 [info] > git status -z -uall [110ms] (cancelled)
+2024-02-22 05:53:12.838 [info] > git check-ignore -v -z --stdin [15ms]
+2024-02-22 05:53:12.839 [info] > git check-ignore -v -z --stdin [9ms]
+2024-02-22 05:53:12.839 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-22 05:54:05.446 [info] > git ls-files --stage -- /home/student/index.html [9ms]
+2024-02-22 05:54:05.454 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:54:05.470 [info] > git show --textconv :index.html [8ms]
+2024-02-22 05:54:22.032 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:54:22.042 [info] > git show --textconv :index.html [2ms]
+2024-02-22 05:54:27.698 [info] > git ls-files --stage -- /home/student/index.html [1ms]
+2024-02-22 05:54:27.707 [info] > git show --textconv :index.html [1ms]
+2024-02-22 05:55:19.639 [info] > git ls-files --stage -- /home/student/index.html [9ms]
+2024-02-22 05:55:19.647 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [1ms]
+2024-02-22 05:55:19.663 [info] > git show --textconv :index.html [8ms]
+2024-02-22 05:56:18.589 [warning] ENOENT: no such file or directory, open '/home/student/Css-Assignment/.git/HEAD'
+2024-02-22 05:56:18.601 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/student/Css-Assignment/.git/config'
+2024-02-22 05:56:18.623 [warning] ENOENT: no such file or directory, open '/home/student/Css-Assignment/.git/HEAD'
+2024-02-22 05:56:18.636 [warning] getRemotes() - ENOENT: no such file or directory, open '/home/student/Css-Assignment/.git/config'
+2024-02-22 05:56:19.227 [info] > git check-ignore -v -z --stdin [2ms]
+2024-02-22 05:56:19.254 [info] > git check-ignore -v -z --stdin [38ms]
+2024-02-22 05:56:27.479 [info] > git ls-files --stage -- /home/student/index.html [9ms]
+2024-02-22 05:56:27.488 [info] > git cat-file -s e475426bd50624f1e71858a9cdce4975a8065f88 [2ms]
+2024-02-22 05:56:27.503 [info] > git show --textconv :index.html [7ms]

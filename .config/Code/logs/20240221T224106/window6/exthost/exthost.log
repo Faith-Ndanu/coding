@@ -1,0 +1,13 @@
+2024-02-21 22:41:09.484 [info] Extension host with pid 2625 started
+2024-02-21 22:41:09.484 [info] Skipping acquiring lock for /home/student/.config/Code/User/workspaceStorage/7db8c05ea832ff1f3a4b0556c76ec8d2.
+2024-02-21 22:41:09.624 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-02-21 22:41:09.638 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2024-02-21 22:41:10.715 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-02-21 22:41:10.756 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-02-21 22:41:10.809 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-02-21 22:41:11.061 [info] Eager extensions activated
+2024-02-21 22:41:11.151 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-02-21 22:41:11.184 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-02-21 22:41:11.221 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2024-02-21 22:42:10.130 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-02-21 23:38:41.238 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'

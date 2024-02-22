@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" score="71" last-seen="1708519280"/>
+    <application id="slack_slack.desktop" score="516" last-seen="1708589414"/>
+    <application id="org.gnome.Nautilus.desktop" score="138" last-seen="1708595537"/>
+    <application id="google-chrome.desktop" score="13687" last-seen="1708599057"/>
+    <application id="org.gnome.Terminal.desktop" score="905" last-seen="1708598571"/>
+    <application id="code.desktop" score="6323" last-seen="1708598931"/>
+    <application id="org.gnome.gedit.desktop" score="0" last-seen="1708321654"/>
+    <application id="org.gnome.Calendar.desktop" score="3" last-seen="1708491869"/>
+    <application id="intellij-idea-community.desktop" score="2297" last-seen="1708493781"/>
+    <application id="org.gnome.eog.desktop" score="0" last-seen="1708542639"/>
+    <application id="apport-gtk.desktop" score="6" last-seen="1708332152"/>
+  </context>
+</application-state>

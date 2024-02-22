@@ -1,0 +1,291 @@
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - * AnyDesk Linux Startup *
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - * Build 20230803142204
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - * Prefix ad
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - 
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-18 13:29:42.540         ad   main   3452   3452                                  main - Found GLib Version: 2.72.
+   info 2024-02-18 13:29:42.581         ad   main   3452   3452                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-18 13:29:42.582         ad   main   3452   3452                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-18 13:29:43.541       tray   main   3452   3452                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-18 13:29:43.541       tray   main   3452   3452                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-18 13:29:43.560       tray   main   3452   3452                       base.signal.hub - 1 threads.
+   info 2024-02-18 13:29:43.560       tray   main   3452   3452                    app.tunnel_ft_comp - Ready.
+   info 2024-02-18 13:29:43.623       tray   ctrl   3452   3910                      unix_app.control - Control startup.
+  error 2024-02-18 13:29:43.624       tray   ctrl   3452   3910              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-18 13:29:43.645       tray   wrk0   3452   3911              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-18 13:29:43.645       tray   wrk0   3452   3911                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-18 13:29:43.645       tray   wrk0   3452   3911              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-18 13:29:43.645       tray   wrk0   3452   3911                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-18 13:29:43.645       tray   wrk0   3452   3911                      unix_app.control - Dropping out of date license response.
+warning 2024-02-18 13:29:43.647       tray   wrk0   3452   3911        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+  error 2024-02-18 13:34:00.713       tray   wrk0   3452   3911                      unix_app.control - Service connection lost.
+   info 2024-02-18 13:34:00.713       tray   ctrl   3452   3910                      unix_app.control - Control stop.
+   info 2024-02-18 13:34:00.713       tray   ctrl   3452   3910                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-18 13:34:00.713       tray   main   3452   3452                      unix_app.control - Got quit signal.
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                                  main - * AnyDesk Linux Startup *
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                                  main - * Build 20230803142204
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                                  main - * Prefix ad
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                                  main - 
+   info 2024-02-18 18:33:16.161         ad   main   1953   1953                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-18 18:33:16.162         ad   main   1953   1953                                  main - Found GLib Version: 2.72.
+   info 2024-02-18 18:33:16.193         ad   main   1953   1953                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-18 18:33:16.193         ad   main   1953   1953                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-18 18:33:17.039       tray   main   1953   1953                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-18 18:33:17.039       tray   main   1953   1953                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-18 18:33:17.063       tray   main   1953   1953                       base.signal.hub - 1 threads.
+   info 2024-02-18 18:33:17.063       tray   main   1953   1953                    app.tunnel_ft_comp - Ready.
+   info 2024-02-18 18:33:17.095       tray   ctrl   1953   2154                      unix_app.control - Control startup.
+  error 2024-02-18 18:33:17.095       tray   ctrl   1953   2154              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-18 18:33:17.102       tray   wrk0   1953   2155              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-18 18:33:17.102       tray   wrk0   1953   2155                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-18 18:33:17.102       tray   wrk0   1953   2155              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-18 18:33:17.102       tray   wrk0   1953   2155                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-18 18:33:17.102       tray   wrk0   1953   2155                      unix_app.control - Dropping out of date license response.
+warning 2024-02-18 18:33:17.102       tray   wrk0   1953   2155        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-18 18:35:33.265       tray   wrk0   1953   2155                      unix_app.control - Received new license info. (free-1, 28)
+  error 2024-02-18 18:50:21.989       tray   wrk0   1953   2155                      unix_app.control - Service connection lost.
+   info 2024-02-18 18:50:21.989       tray   ctrl   1953   2154                      unix_app.control - Control stop.
+   info 2024-02-18 18:50:21.989       tray   ctrl   1953   2154                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-18 18:50:21.989       tray   main   1953   1953                      unix_app.control - Got quit signal.
+   info 2024-02-19 03:46:51.130         ad   main   2007   2007                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - * AnyDesk Linux Startup *
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - * Build 20230803142204
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - * Prefix ad
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - 
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-19 03:46:51.132         ad   main   2007   2007                                  main - Found GLib Version: 2.72.
+   info 2024-02-19 03:46:51.170         ad   main   2007   2007                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-19 03:46:51.170         ad   main   2007   2007                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-19 03:46:52.170       tray   main   2007   2007                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-19 03:46:52.170       tray   main   2007   2007                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-19 03:46:52.190       tray   main   2007   2007                       base.signal.hub - 1 threads.
+   info 2024-02-19 03:46:52.190       tray   main   2007   2007                    app.tunnel_ft_comp - Ready.
+   info 2024-02-19 03:46:52.220       tray   ctrl   2007   2217                      unix_app.control - Control startup.
+  error 2024-02-19 03:46:52.221       tray   ctrl   2007   2217              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-19 03:46:52.226       tray   wrk0   2007   2218              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-19 03:46:52.226       tray   wrk0   2007   2218                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-19 03:46:52.226       tray   wrk0   2007   2218              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-19 03:46:52.226       tray   wrk0   2007   2218                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-19 03:46:52.226       tray   wrk0   2007   2218                      unix_app.control - Dropping out of date license response.
+warning 2024-02-19 03:46:52.227       tray   wrk0   2007   2218        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-19 03:46:52.454       tray   wrk0   2007   2218                      unix_app.control - Received new license info. (free-1, 28)
+  error 2024-02-19 13:05:24.097       tray   wrk0   2007   2218                      unix_app.control - Service connection lost.
+   info 2024-02-19 13:05:24.097       tray   ctrl   2007   2217                      unix_app.control - Control stop.
+   info 2024-02-19 13:05:24.097       tray   ctrl   2007   2217                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-19 13:05:24.098       tray   main   2007   2007                      unix_app.control - Got quit signal.
+   info 2024-02-19 13:21:56.339         ad   main   1969   1969                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - * AnyDesk Linux Startup *
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - * Build 20230803142204
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - * Prefix ad
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - 
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-19 13:21:56.340         ad   main   1969   1969                                  main - Found GLib Version: 2.72.
+   info 2024-02-19 13:21:56.376         ad   main   1969   1969                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-19 13:21:56.376         ad   main   1969   1969                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-19 13:21:57.326       tray   main   1969   1969                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-19 13:21:57.326       tray   main   1969   1969                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-19 13:21:57.346       tray   main   1969   1969                       base.signal.hub - 1 threads.
+   info 2024-02-19 13:21:57.346       tray   main   1969   1969                    app.tunnel_ft_comp - Ready.
+   info 2024-02-19 13:21:57.375       tray   ctrl   1969   2181                      unix_app.control - Control startup.
+  error 2024-02-19 13:21:57.375       tray   ctrl   1969   2181              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-19 13:21:57.381       tray   wrk0   1969   2182              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-19 13:21:57.381       tray   wrk0   1969   2182                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-19 13:21:57.381       tray   wrk0   1969   2182              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-19 13:21:57.381       tray   wrk0   1969   2182                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-19 13:21:57.381       tray   wrk0   1969   2182                      unix_app.control - Dropping out of date license response.
+warning 2024-02-19 13:21:57.382       tray   wrk0   1969   2182        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-19 13:22:29.789       tray   wrk0   1969   2182                      unix_app.control - Received new license info. (free-1, 28)
+  error 2024-02-19 19:12:36.546       tray   wrk0   1969   2182                      unix_app.control - Service connection lost.
+   info 2024-02-19 19:12:36.546       tray   ctrl   1969   2181                      unix_app.control - Control stop.
+   info 2024-02-19 19:12:36.546       tray   ctrl   1969   2181                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-19 19:12:36.547       tray   main   1969   1969                      unix_app.control - Got quit signal.
+   info 2024-02-20 03:14:09.460         ad   main   1981   1981                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - * AnyDesk Linux Startup *
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - * Build 20230803142204
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - * Prefix ad
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - 
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-20 03:14:09.461         ad   main   1981   1981                                  main - Found GLib Version: 2.72.
+   info 2024-02-20 03:14:09.490         ad   main   1981   1981                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-20 03:14:09.490         ad   main   1981   1981                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-20 03:14:10.437       tray   main   1981   1981                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-20 03:14:10.437       tray   main   1981   1981                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-20 03:14:10.460       tray   main   1981   1981                       base.signal.hub - 1 threads.
+   info 2024-02-20 03:14:10.460       tray   main   1981   1981                    app.tunnel_ft_comp - Ready.
+   info 2024-02-20 03:14:10.510       tray   ctrl   1981   2199                      unix_app.control - Control startup.
+  error 2024-02-20 03:14:10.511       tray   ctrl   1981   2199              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-20 03:14:10.517       tray   wrk0   1981   2200              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-20 03:14:10.517       tray   wrk0   1981   2200                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-20 03:14:10.517       tray   wrk0   1981   2200              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-20 03:14:10.517       tray   wrk0   1981   2200                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-20 03:14:10.517       tray   wrk0   1981   2200                      unix_app.control - Dropping out of date license response.
+warning 2024-02-20 03:14:10.517       tray   wrk0   1981   2200        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-20 03:14:44.249       tray   wrk0   1981   2200                      unix_app.control - Received new license info. (free-1, 28)
+  error 2024-02-20 12:54:42.511       tray   wrk0   1981   2200                      unix_app.control - Service connection lost.
+   info 2024-02-20 12:54:42.511       tray   ctrl   1981   2199                      unix_app.control - Control stop.
+   info 2024-02-20 12:54:42.511       tray   ctrl   1981   2199                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-20 12:54:42.511       tray   main   1981   1981                      unix_app.control - Got quit signal.
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - * AnyDesk Linux Startup *
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - * Build 20230803142204
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - * Prefix ad
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - 
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-20 14:02:41.747         ad   main   1966   1966                                  main - Found GLib Version: 2.72.
+   info 2024-02-20 14:02:41.788         ad   main   1966   1966                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-20 14:02:41.788         ad   main   1966   1966                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-20 14:02:42.636       tray   main   1966   1966                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-20 14:02:42.636       tray   main   1966   1966                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-20 14:02:42.659       tray   main   1966   1966                       base.signal.hub - 1 threads.
+   info 2024-02-20 14:02:42.659       tray   main   1966   1966                    app.tunnel_ft_comp - Ready.
+   info 2024-02-20 14:02:42.689       tray   ctrl   1966   2181                      unix_app.control - Control startup.
+  error 2024-02-20 14:02:42.689       tray   ctrl   1966   2181              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-20 14:02:42.714       tray   wrk0   1966   2182              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-20 14:02:42.714       tray   wrk0   1966   2182                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-20 14:02:42.714       tray   wrk0   1966   2182              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-20 14:02:42.714       tray   wrk0   1966   2182                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-20 14:02:42.715       tray   wrk0   1966   2182                      unix_app.control - Dropping out of date license response.
+warning 2024-02-20 14:02:42.715       tray   wrk0   1966   2182        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-20 14:03:18.968       tray   wrk0   1966   2182                      unix_app.control - Received new license info. (free-1, 28)
+   info 2024-02-20 17:34:25.576         ad   main   1973   1973                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - * AnyDesk Linux Startup *
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - * Build 20230803142204
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - * Prefix ad
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - 
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-20 17:34:25.577         ad   main   1973   1973                                  main - Found GLib Version: 2.72.
+   info 2024-02-20 17:34:25.603         ad   main   1973   1973                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-20 17:34:25.603         ad   main   1973   1973                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-20 17:34:26.613       tray   main   1973   1973                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-20 17:34:26.613       tray   main   1973   1973                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-20 17:34:26.634       tray   main   1973   1973                       base.signal.hub - 1 threads.
+   info 2024-02-20 17:34:26.634       tray   main   1973   1973                    app.tunnel_ft_comp - Ready.
+   info 2024-02-20 17:34:26.676       tray   ctrl   1973   2184                      unix_app.control - Control startup.
+  error 2024-02-20 17:34:26.677       tray   ctrl   1973   2184              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-20 17:34:26.686       tray   wrk0   1973   2185              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-20 17:34:26.686       tray   wrk0   1973   2185                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-20 17:34:26.686       tray   wrk0   1973   2185              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-20 17:34:26.686       tray   wrk0   1973   2185                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-20 17:34:26.686       tray   wrk0   1973   2185                      unix_app.control - Dropping out of date license response.
+warning 2024-02-20 17:34:26.686       tray   wrk0   1973   2185        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-20 17:34:58.946       tray   wrk0   1973   2185                      unix_app.control - Received new license info. (free-1, 28)
+  error 2024-02-20 19:54:28.954       tray   wrk0   1973   2185                      unix_app.control - Service connection lost.
+   info 2024-02-20 19:54:28.954       tray   ctrl   1973   2184                      unix_app.control - Control stop.
+   info 2024-02-20 19:54:28.954       tray   ctrl   1973   2184                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-20 19:54:28.956       tray   main   1973   1973                      unix_app.control - Got quit signal.
+   info 2024-02-21 03:36:24.155         ad   main   2135   2135                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - * AnyDesk Linux Startup *
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - * Build 20230803142204
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - * Prefix ad
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - 
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-21 03:36:24.156         ad   main   2135   2135                                  main - Found GLib Version: 2.72.
+   info 2024-02-21 03:36:24.168         ad   main   2135   2135                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-21 03:36:24.169         ad   main   2135   2135                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-21 03:36:25.066       tray   main   2135   2135                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-21 03:36:25.066       tray   main   2135   2135                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-21 03:36:25.088       tray   main   2135   2135                       base.signal.hub - 1 threads.
+   info 2024-02-21 03:36:25.088       tray   main   2135   2135                    app.tunnel_ft_comp - Ready.
+   info 2024-02-21 03:36:25.118       tray   ctrl   2135   2372                      unix_app.control - Control startup.
+  error 2024-02-21 03:36:25.119       tray   ctrl   2135   2372              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-21 03:36:25.125       tray   wrk0   2135   2373              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-21 03:36:25.125       tray   wrk0   2135   2373                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-21 03:36:25.125       tray   wrk0   2135   2373              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-21 03:36:25.125       tray   wrk0   2135   2373                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-21 03:36:25.125       tray   wrk0   2135   2373                      unix_app.control - Dropping out of date license response.
+warning 2024-02-21 03:36:25.125       tray   wrk0   2135   2373        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-21 03:36:25.345       tray   wrk0   2135   2373                      unix_app.control - Received new license info. (free-1, 28)
+  error 2024-02-21 13:18:39.151       tray   wrk0   2135   2373                      unix_app.control - Service connection lost.
+   info 2024-02-21 13:18:39.151       tray   ctrl   2135   2372                      unix_app.control - Control stop.
+   info 2024-02-21 13:18:39.151       tray   ctrl   2135   2372                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-21 13:18:39.152       tray   main   2135   2135                      unix_app.control - Got quit signal.
+   info 2024-02-21 13:52:23.950         ad   main   1954   1954                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-21 13:52:23.954         ad   main   1954   1954                                  main - * AnyDesk Linux Startup *
+   info 2024-02-21 13:52:23.954         ad   main   1954   1954                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-21 13:52:23.954         ad   main   1954   1954                                  main - * Build 20230803142204
+   info 2024-02-21 13:52:23.954         ad   main   1954   1954                                  main - * Prefix ad
+   info 2024-02-21 13:52:23.954         ad   main   1954   1954                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-21 13:52:23.954         ad   main   1954   1954                                  main - 
+   info 2024-02-21 13:52:23.954         ad   main   1954   1954                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-21 13:52:23.955         ad   main   1954   1954                                  main - Found GLib Version: 2.72.
+   info 2024-02-21 13:52:23.998         ad   main   1954   1954                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-21 13:52:23.998         ad   main   1954   1954                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-21 13:52:24.941       tray   main   1954   1954                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-21 13:52:24.941       tray   main   1954   1954                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-21 13:52:24.961       tray   main   1954   1954                       base.signal.hub - 1 threads.
+   info 2024-02-21 13:52:24.961       tray   main   1954   1954                    app.tunnel_ft_comp - Ready.
+   info 2024-02-21 13:52:24.991       tray   ctrl   1954   2185                      unix_app.control - Control startup.
+  error 2024-02-21 13:52:24.992       tray   ctrl   1954   2185              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-21 13:52:24.997       tray   wrk0   1954   2186              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-21 13:52:24.997       tray   wrk0   1954   2186                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-21 13:52:24.997       tray   wrk0   1954   2186              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-21 13:52:24.997       tray   wrk0   1954   2186                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-21 13:52:24.997       tray   wrk0   1954   2186                      unix_app.control - Dropping out of date license response.
+warning 2024-02-21 13:52:24.997       tray   wrk0   1954   2186        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-21 13:53:00.593       tray   wrk0   1954   2186                      unix_app.control - Received new license info. (free-1, 28)
+  error 2024-02-21 22:08:20.980       tray   wrk0   1954   2186                      unix_app.control - Service connection lost.
+   info 2024-02-21 22:08:20.980       tray   ctrl   1954   2185                      unix_app.control - Control stop.
+   info 2024-02-21 22:08:20.980       tray   ctrl   1954   2185                    app.tunnel_ft_comp - Stopping file component.
+   info 2024-02-21 22:08:20.981       tray   main   1954   1954                      unix_app.control - Got quit signal.
+   info 2024-02-22 03:41:01.925         ad   main   1975   1975                         impl_selector - using avx2
+ * * * * * * * * * * * * * * * * * *
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - * AnyDesk Linux Startup *
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - * Version 6.3.0 (linux_release_6.3.0 48f2d31752552b3da35079a0d8295c0ffda44a3e)
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - * Build 20230803142204
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - * Prefix ad
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - * Copyright (C) 2023 AnyDesk Software GmbH *
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - 
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - Distribution Info: Ubuntu 22.04.3 LTS
+   info 2024-02-22 03:41:01.931         ad   main   1975   1975                                  main - Found GLib Version: 2.72.
+   info 2024-02-22 03:41:01.947         ad   main   1975   1975                       app.common_path - user_data_dir = /home/student/.anydesk, logged_in_user_data_dir = /home/student/.anydesk, current_home = /home/student
+
+   info 2024-02-22 03:41:01.947         ad   main   1975   1975                       app.common_path - initialized user = /home/student/.anydesk, system = /etc/anydesk
+   info 2024-02-22 03:41:02.943       tray   main   1975   1975                           gui.gui_app - DPI scaling: 1.00 / 1.00
+   info 2024-02-22 03:41:02.943       tray   main   1975   1975                           gui.gui_app - Using std-resolution bitmaps.
+   info 2024-02-22 03:41:02.964       tray   main   1975   1975                       base.signal.hub - 1 threads.
+   info 2024-02-22 03:41:02.964       tray   main   1975   1975                    app.tunnel_ft_comp - Ready.
+   info 2024-02-22 03:41:02.001       tray   ctrl   1975   2189                      unix_app.control - Control startup.
+  error 2024-02-22 03:41:02.002       tray   ctrl   1975   2189              base.signal.global.event - Cannot set the subsignal count to a smaller or equal value.
+  error 2024-02-22 03:41:03.018       tray   wrk0   1975   2190              base.prot.packet_factory - Invalid packet received (type=26, 8 bytes).
+  error 2024-02-22 03:41:03.018       tray   wrk0   1975   2190                        hub_ipc_socket - IPC packet deserialization failed.
+  error 2024-02-22 03:41:03.018       tray   wrk0   1975   2190              base.prot.packet_factory - Invalid packet received (type=111, 4 bytes).
+  error 2024-02-22 03:41:03.019       tray   wrk0   1975   2190                        hub_ipc_socket - IPC packet deserialization failed.
+warning 2024-02-22 03:41:03.019       tray   wrk0   1975   2190                      unix_app.control - Dropping out of date license response.
+warning 2024-02-22 03:41:03.019       tray   wrk0   1975   2190        base.signal.global.shared_file - open (/var/lib/AccountsService/users/student) failed (13): Permission denied 
+   info 2024-02-22 03:41:39.367       tray   wrk0   1975   2190                      unix_app.control - Received new license info. (free-1, 28)

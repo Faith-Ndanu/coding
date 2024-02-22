@@ -1,0 +1,15 @@
+#Faith{
+    border-style: dotted;
+    border-color: blue;
+    padding: 20px;
+    margin: 5%;
+    p{
+        border: solid 1px;
+        border-color: chartreuse;
+    }
+
+
+
+
+
+}

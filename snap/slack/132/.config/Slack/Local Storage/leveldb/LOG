@@ -1,0 +1,18 @@
+2024/02/22-01:01:45.581 18ba Reusing MANIFEST /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/MANIFEST-000001
+2024/02/22-01:01:45.581 18ba Recovering log #34
+2024/02/22-01:01:45.582 18ba Reusing old log /home/student/snap/slack/132/.config/Slack/Local Storage/leveldb/000034.log 
+2024/02/22-01:03:45.949 18bb Level-0 table #38: started
+2024/02/22-01:03:45.954 18bb Level-0 table #38: 19862 bytes OK
+2024/02/22-01:03:45.958 18bb Delete type=0 #34
+2024/02/22-03:11:29.958 18bb Level-0 table #40: started
+2024/02/22-03:11:29.962 18bb Level-0 table #40: 18800 bytes OK
+2024/02/22-03:11:29.966 18bb Delete type=0 #37
+2024/02/22-03:11:29.967 18bb Compacting 4@0 + 1@1 files
+2024/02/22-03:11:29.970 18bb Generated table #41@0: 12 keys, 5300 bytes
+2024/02/22-03:11:29.971 18bb Compacted 4@0 + 1@1 files => 5300 bytes
+2024/02/22-03:11:29.974 18bb compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/22-03:11:29.974 18bb Delete type=2 #40
+2024/02/22-03:11:29.974 18bb Delete type=2 #30
+2024/02/22-03:11:29.975 18bb Delete type=2 #35
+2024/02/22-03:11:29.975 18bb Delete type=2 #38
+2024/02/22-03:11:29.975 18bb Delete type=2 #33

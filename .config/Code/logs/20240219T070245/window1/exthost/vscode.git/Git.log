@@ -1,0 +1,18 @@
+2024-02-19 07:02:47.860 [info] Log level: Info
+2024-02-19 07:02:47.860 [info] Validating found git in: "git"
+2024-02-19 07:02:47.860 [info] Using git "2.34.1" from "git"
+2024-02-19 07:02:47.860 [info] > git rev-parse --show-toplevel [16ms]
+2024-02-19 07:02:47.860 [info] > git rev-parse --git-dir --git-common-dir [5ms]
+2024-02-19 07:02:47.860 [info] Open repository: /home/student/Documents/forms
+2024-02-19 07:02:47.897 [info] > git rev-parse --show-toplevel [22ms]
+2024-02-19 07:02:47.898 [info] > git config --get commit.template [29ms]
+2024-02-19 07:02:47.919 [info] > git rev-parse --show-toplevel [10ms]
+2024-02-19 07:02:47.934 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-02-19 07:02:47.946 [info] > git status -z -uall [2ms]
+2024-02-19 07:02:47.975 [info] > git config --get commit.template [10ms]
+2024-02-19 07:02:47.977 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-02-19 07:02:47.988 [info] > git status -z -uall [2ms]
+2024-02-19 07:02:48.324 [info] > git show --textconv :forms/index.html [7ms]
+2024-02-19 07:02:48.326 [info] > git ls-files --stage -- /home/student/Documents/forms/forms/index.html [2ms]
+2024-02-19 07:02:48.334 [info] > git cat-file -s f076092561d65d0491fffdf79e198455c9c43945 [2ms]
+2024-02-19 07:02:48.409 [info] > git check-ignore -v -z --stdin [1ms]

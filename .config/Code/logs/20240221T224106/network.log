@@ -1,0 +1,1 @@
+2024-02-22 04:49:19.183 [error] electron #554: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST net::ERR_INTERNET_DISCONNECTED

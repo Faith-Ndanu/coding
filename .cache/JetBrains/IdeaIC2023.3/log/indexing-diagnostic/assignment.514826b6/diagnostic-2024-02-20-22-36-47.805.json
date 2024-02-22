@@ -1,0 +1,79 @@
+{
+  "appInfo" : {
+    "build" : "233.14015.106",
+    "buildDate" : "2024-01-25T05:01:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2024-02-21T03:36:47.805538836Z",
+    "os" : "Linux 6.5.0-18-generic",
+    "runtime" : "JetBrains s.r.o. 17.0.9 17.0.9+7-b1087.11"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "Assignment",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'Assignment' (src)\", \"Library KotlinJavaRuntime (#4 class roots, #4 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 2815,
+      "concurrentHandlingWallTimeWithoutPauses" : 487259062,
+      "concurrentHandlingWallTimeWithPauses" : 487259062,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 494318393,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 3894979,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 490181156,
+      "delayedPushPropertiesStageTime" : 8766,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2024-02-21T03:36:47.315289805Z",
+      "updatingEnd" : "2024-02-21T03:36:47.804315778Z",
+      "totalWallTimeWithPauses" : 489026484,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 489026484
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 2,
+      "numberOfScannedFiles" : 1413,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Library KotlinJavaRuntime (#4 class roots, #4 source roots)",
+      "numberOfScannedFiles" : 1412,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 373104460,
+      "totalOneThreadTimeWithPauses" : 485565657,
+      "iterationAndScannersApplicationTime" : 3765670,
+      "filesCheckTime" : 481678492,
+      "timeProcessingUpToDateFiles" : 52442315,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'Assignment' (src)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 7370865,
+      "totalOneThreadTimeWithPauses" : 8752736,
+      "iterationAndScannersApplicationTime" : 129309,
+      "filesCheckTime" : 8502664,
+      "timeProcessingUpToDateFiles" : 119511,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

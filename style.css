@@ -1,0 +1,25 @@
+#body{
+    background-color: rgb(125, 248, 131);
+}
+#quickcuisine{
+    border-color: blue;
+    border-style: block;
+    padding: 20px 30px;
+    margin: 5% ;  
+    border: solid 1px;
+    background-color: rgb(255, 0, 191);
+    text-align: center;
+    border-radius: 20px 20px 20px 20px;
+    position: absolute; top: 2px; right: 2px;
+    width: 50%;
+}
+    
+#ima{
+    width: 100px;
+    height: 100px;
+    vertical-align: auto;
+
+}
+
+    
+

@@ -1,0 +1,12 @@
+2024/02/20-09:03:12.308 942 Reusing MANIFEST /home/student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/20-09:03:12.308 942 Recovering log #7
+2024/02/20-09:03:12.316 942 Reusing old log /home/student/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000007.log 
+2024/02/20-09:03:13.533 942 Level-0 table #12: started
+2024/02/20-09:03:13.553 942 Level-0 table #12: 2835516 bytes OK
+2024/02/20-09:03:13.555 942 Delete type=0 #7
+2024/02/20-09:03:14.929 943 Compacting 1@1 + 1@2 files
+2024/02/20-09:03:14.940 943 Generated table #13@1: 137 keys, 324623 bytes
+2024/02/20-09:03:14.940 943 Compacted 1@1 + 1@2 files => 324623 bytes
+2024/02/20-09:03:14.943 943 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/20-09:03:14.944 943 Delete type=2 #9
+2024/02/20-09:03:14.944 943 Delete type=2 #12

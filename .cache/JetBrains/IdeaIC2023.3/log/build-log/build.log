@@ -1,0 +1,842 @@
+2024-02-20 09:31:34,489 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:31:34,514 [     31]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:31:34,646 [    163]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 116 ms
+2024-02-20 09:31:34,743 [    260]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:31:34,883 [    400]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 140 ms
+2024-02-20 09:31:34,887 [    404]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:31:34,936 [    453]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:31:34,936 [    453]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:31:34,937 [    454]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:31:34,937 [    454]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:31:34,938 [    455]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:31:34,938 [    455]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:31:34,938 [    455]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:31:34,939 [    456]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:31:35,080 [    597]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:false parallel compilation:false
+2024-02-20 09:31:35,081 [    598]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 09:31:35,081 [    598]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 09:31:35,085 [    602]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 09:31:35,085 [    602]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 509071b9
+2024-02-20 09:31:35,090 [    607]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:31:35,091 [    608]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:31:35,114 [    631]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 12 ms
+2024-02-20 09:31:35,258 [    775]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 22 ms
+2024-02-20 09:31:35,266 [    783]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 31 ms
+2024-02-20 09:31:38,268 [   3785]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 09:31:38,392 [   3909]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 09:31:38,425 [   3942]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 3 s 97 ms; 1 sources processed (3097 ms per file)
+2024-02-20 09:31:38,452 [   3969]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=2846, regularPageLoads=59, pageLoadsAboveSizeThreshold=0, pageLoadUs=40617, pageDisposalUs=98, capacityInBytes=503316478, disposedBuffers=59 maxRegisteredFiles=46 maxCacheSizeInBytes=27721728totalSizeCachedBytes=0
+2024-02-20 09:31:38,870 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:31:38,898 [     34]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:31:39,068 [    204]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 148 ms
+2024-02-20 09:31:39,093 [    229]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:31:39,271 [    407]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 177 ms
+2024-02-20 09:31:39,273 [    409]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:31:39,319 [    455]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:31:39,319 [    455]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:31:39,319 [    455]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:31:39,320 [    456]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:31:39,320 [    456]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:31:39,320 [    456]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:31:39,320 [    456]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:31:39,321 [    457]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:31:39,448 [    584]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 578 ms
+2024-02-20 09:31:39,482 [    618]   INFO - #o.j.j.c.BuildMain - Build canceled, but no build session is running. Exiting.
+2024-02-20 09:35:23,262 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:35:23,284 [     28]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:35:23,413 [    157]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 114 ms
+2024-02-20 09:35:23,492 [    236]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:35:23,613 [    357]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 120 ms
+2024-02-20 09:35:23,616 [    360]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:35:23,658 [    402]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:35:23,658 [    402]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:35:23,658 [    402]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:35:23,658 [    402]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:35:23,659 [    403]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:35:23,659 [    403]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:35:23,659 [    403]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:35:23,659 [    403]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:35:23,775 [    519]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 09:35:23,777 [    521]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 09:35:23,777 [    521]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 09:35:23,780 [    524]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 09:35:23,780 [    524]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 99ce6cce
+2024-02-20 09:35:23,785 [    529]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:35:23,786 [    530]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:35:23,799 [    543]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 09:35:23,935 [    679]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 26 ms
+2024-02-20 09:35:23,949 [    693]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 42 ms
+2024-02-20 09:35:24,782 [   1526]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 09:35:24,876 [   1620]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 09:35:24,904 [   1648]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 547 ms; 1 sources processed (547 ms per file)
+2024-02-20 09:35:24,921 [   1665]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1040, regularPageLoads=47, pageLoadsAboveSizeThreshold=0, pageLoadUs=38159, pageDisposalUs=78, capacityInBytes=503316478, disposedBuffers=47 maxRegisteredFiles=46 maxCacheSizeInBytes=28770304totalSizeCachedBytes=0
+2024-02-20 09:35:25,357 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:35:25,384 [     33]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:35:25,512 [    161]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 114 ms
+2024-02-20 09:35:25,533 [    182]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:35:25,691 [    340]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 157 ms
+2024-02-20 09:35:25,693 [    342]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:35:25,733 [    382]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:35:25,734 [    383]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:35:25,734 [    383]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:35:25,734 [    383]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:35:25,735 [    384]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:35:25,735 [    384]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:35:25,735 [    384]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:35:25,736 [    385]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:35:25,854 [    503]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 496 ms
+2024-02-20 09:37:57,935 [ 152584]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 09:37:57,937 [ 152586]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 09:37:57,937 [ 152586]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 09:37:57,940 [ 152589]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 09:37:57,941 [ 152590]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 5bfb9bb5
+2024-02-20 09:37:57,947 [ 152596]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:37:57,949 [ 152598]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:37:57,962 [ 152611]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 09:37:58,122 [ 152771]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 30 ms
+2024-02-20 09:37:58,141 [ 152790]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 50 ms
+2024-02-20 09:37:58,998 [ 153647]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled with errors
+2024-02-20 09:37:59,024 [ 153673]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=510, regularPageLoads=28, pageLoadsAboveSizeThreshold=0, pageLoadUs=31719, pageDisposalUs=73, capacityInBytes=503316478, disposedBuffers=28 maxRegisteredFiles=37 maxCacheSizeInBytes=20185088totalSizeCachedBytes=0
+2024-02-20 09:37:59,453 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:37:59,477 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:37:59,615 [    167]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 122 ms
+2024-02-20 09:37:59,637 [    189]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:37:59,776 [    328]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 138 ms
+2024-02-20 09:37:59,778 [    330]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:37:59,818 [    370]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:37:59,818 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:37:59,818 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:37:59,819 [    371]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:37:59,819 [    371]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:37:59,819 [    371]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:37:59,820 [    372]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:37:59,820 [    372]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:37:59,925 [    477]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 472 ms
+2024-02-20 09:38:43,110 [  43662]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 09:38:43,112 [  43664]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 09:38:43,112 [  43664]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 09:38:43,114 [  43666]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 09:38:43,114 [  43666]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started d9262217
+2024-02-20 09:38:43,119 [  43671]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:38:43,120 [  43672]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:38:43,130 [  43682]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 09:38:43,218 [  43770]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 27 ms
+2024-02-20 09:38:43,234 [  43786]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 44 ms
+2024-02-20 09:38:44,050 [  44602]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 09:38:44,145 [  44697]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 09:38:44,171 [  44723]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 500 ms; 1 sources processed (500 ms per file)
+2024-02-20 09:38:44,190 [  44742]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=890, regularPageLoads=44, pageLoadsAboveSizeThreshold=0, pageLoadUs=36734, pageDisposalUs=85, capacityInBytes=503316478, disposedBuffers=44 maxRegisteredFiles=46 maxCacheSizeInBytes=28672000totalSizeCachedBytes=0
+2024-02-20 09:38:44,625 [      8]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:38:44,647 [     30]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:38:44,778 [    161]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 116 ms
+2024-02-20 09:38:44,797 [    180]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:38:44,940 [    323]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 142 ms
+2024-02-20 09:38:44,942 [    325]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:38:44,985 [    368]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:38:44,985 [    368]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:38:44,986 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:38:44,986 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:38:44,986 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:38:44,986 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:38:44,987 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:38:44,987 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:38:45,097 [    480]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 472 ms
+2024-02-20 09:42:47,916 [ 243299]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 09:42:47,917 [ 243300]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 09:42:47,918 [ 243301]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 09:42:47,920 [ 243303]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 09:42:47,920 [ 243303]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started af27df44
+2024-02-20 09:42:47,924 [ 243307]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:42:47,926 [ 243309]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:42:47,936 [ 243319]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 09:42:48,028 [ 243411]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 22 ms
+2024-02-20 09:42:48,044 [ 243427]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 39 ms
+2024-02-20 09:42:48,813 [ 244196]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 09:42:48,939 [ 244322]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 09:42:48,973 [ 244356]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 454 ms; 1 sources processed (454 ms per file)
+2024-02-20 09:42:48,991 [ 244374]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=970, regularPageLoads=44, pageLoadsAboveSizeThreshold=0, pageLoadUs=38051, pageDisposalUs=117, capacityInBytes=503316478, disposedBuffers=44 maxRegisteredFiles=46 maxCacheSizeInBytes=28704768totalSizeCachedBytes=0
+2024-02-20 09:42:49,415 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:42:49,439 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:42:49,564 [    154]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 111 ms
+2024-02-20 09:42:49,585 [    175]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:42:49,737 [    327]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 152 ms
+2024-02-20 09:42:49,740 [    330]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:42:49,790 [    380]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:42:49,790 [    380]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:42:49,790 [    380]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:42:49,791 [    381]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:42:49,791 [    381]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:42:49,791 [    381]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:42:49,792 [    382]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:42:49,792 [    382]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:42:49,915 [    505]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 500 ms
+2024-02-20 09:44:27,262 [  97852]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 09:44:27,263 [  97853]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 09:44:27,264 [  97854]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 09:44:27,266 [  97856]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 09:44:27,266 [  97856]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started e04cfd76
+2024-02-20 09:44:27,271 [  97861]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:44:27,272 [  97862]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 09:44:27,283 [  97873]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 09:44:27,369 [  97959]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 24 ms
+2024-02-20 09:44:27,386 [  97976]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 43 ms
+2024-02-20 09:44:27,804 [  98394]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=200, regularPageLoads=13, pageLoadsAboveSizeThreshold=0, pageLoadUs=24014, pageDisposalUs=40, capacityInBytes=503316478, disposedBuffers=13 maxRegisteredFiles=25 maxCacheSizeInBytes=11599872totalSizeCachedBytes=0
+2024-02-20 09:44:27,935 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 09:44:27,959 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 09:44:28,084 [    154]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 110 ms
+2024-02-20 09:44:28,103 [    173]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 09:44:28,253 [    323]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 150 ms
+2024-02-20 09:44:28,256 [    326]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 09:44:28,299 [    369]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 09:44:28,300 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 09:44:28,300 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 09:44:28,300 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 09:44:28,301 [    371]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 09:44:28,301 [    371]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 09:44:28,301 [    371]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 09:44:28,302 [    372]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 09:44:28,423 [    493]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 488 ms
+2024-02-20 10:28:20,444 [2632514]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 10:28:20,445 [2632515]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 10:28:20,446 [2632516]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 10:28:20,448 [2632518]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 10:28:20,448 [2632518]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 69f5f2a8
+2024-02-20 10:28:20,453 [2632523]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 10:28:20,454 [2632524]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 10:28:20,464 [2632534]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 10:28:20,563 [2632633]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 29 ms
+2024-02-20 10:28:20,579 [2632649]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 51 ms
+2024-02-20 10:28:21,263 [2633333]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled with errors
+2024-02-20 10:28:21,286 [2633356]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=510, regularPageLoads=28, pageLoadsAboveSizeThreshold=0, pageLoadUs=29323, pageDisposalUs=66, capacityInBytes=503316478, disposedBuffers=28 maxRegisteredFiles=37 maxCacheSizeInBytes=20185088totalSizeCachedBytes=0
+2024-02-20 10:28:21,705 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 10:28:21,727 [     27]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 10:28:21,855 [    155]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 115 ms
+2024-02-20 10:28:21,874 [    174]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 10:28:22,014 [    314]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 140 ms
+2024-02-20 10:28:22,017 [    317]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 10:28:22,058 [    358]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 10:28:22,058 [    358]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 10:28:22,058 [    358]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 10:28:22,059 [    359]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 10:28:22,059 [    359]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 10:28:22,059 [    359]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 10:28:22,060 [    360]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 10:28:22,060 [    360]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 10:28:22,171 [    471]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 466 ms
+2024-02-20 10:29:56,716 [  95016]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 10:29:56,717 [  95017]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 10:29:56,717 [  95017]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 10:29:56,720 [  95020]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 10:29:56,720 [  95020]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 338dcd75
+2024-02-20 10:29:56,725 [  95025]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 10:29:56,726 [  95026]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 10:29:56,736 [  95036]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 10:29:56,828 [  95128]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 23 ms
+2024-02-20 10:29:56,843 [  95143]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 43 ms
+2024-02-20 10:29:57,623 [  95923]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 10:29:57,728 [  96028]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 10:29:57,756 [  96056]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 463 ms; 1 sources processed (463 ms per file)
+2024-02-20 10:29:57,779 [  96079]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=985, regularPageLoads=46, pageLoadsAboveSizeThreshold=0, pageLoadUs=35241, pageDisposalUs=81, capacityInBytes=503316478, disposedBuffers=46 maxRegisteredFiles=46 maxCacheSizeInBytes=29818880totalSizeCachedBytes=0
+2024-02-20 10:29:58,213 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 10:29:58,236 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 10:29:58,364 [    157]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 113 ms
+2024-02-20 10:29:58,386 [    179]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 10:29:58,541 [    334]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 155 ms
+2024-02-20 10:29:58,544 [    337]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 10:29:58,584 [    377]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 10:29:58,585 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 10:29:58,585 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 10:29:58,585 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 10:29:58,586 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 10:29:58,586 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 10:29:58,586 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 10:29:58,586 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 10:29:58,694 [    487]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 481 ms
+2024-02-20 10:48:10,619 [1092412]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 10:48:10,621 [1092414]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 10:48:10,621 [1092414]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 10:48:10,624 [1092417]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 10:48:10,624 [1092417]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started d524d547
+2024-02-20 10:48:10,628 [1092421]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 10:48:10,630 [1092423]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 10:48:10,640 [1092433]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 10:48:10,742 [1092535]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 26 ms
+2024-02-20 10:48:10,758 [1092551]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 47 ms
+2024-02-20 10:48:11,546 [1093339]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 10:48:11,644 [1093437]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 10:48:11,669 [1093462]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 471 ms; 1 sources processed (471 ms per file)
+2024-02-20 10:48:11,689 [1093482]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1025, regularPageLoads=46, pageLoadsAboveSizeThreshold=0, pageLoadUs=36848, pageDisposalUs=87, capacityInBytes=503316478, disposedBuffers=46 maxRegisteredFiles=46 maxCacheSizeInBytes=28803072totalSizeCachedBytes=0
+2024-02-20 10:48:12,119 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 10:48:12,144 [     31]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 10:48:12,283 [    170]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 125 ms
+2024-02-20 10:48:12,303 [    190]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 10:48:12,447 [    334]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 143 ms
+2024-02-20 10:48:12,450 [    337]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 10:48:12,490 [    377]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 10:48:12,491 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 10:48:12,491 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 10:48:12,491 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 10:48:12,492 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 10:48:12,492 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 10:48:12,492 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 10:48:12,492 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 10:48:12,606 [    493]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 487 ms
+2024-02-20 11:08:23,713 [1211600]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 11:08:23,714 [1211601]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 11:08:23,715 [1211602]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 11:08:23,717 [1211604]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 11:08:23,717 [1211604]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 5e4988d
+2024-02-20 11:08:23,722 [1211609]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:08:23,724 [1211611]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:08:23,735 [1211622]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 11:08:23,832 [1211719]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 26 ms
+2024-02-20 11:08:23,848 [1211735]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 44 ms
+2024-02-20 11:08:24,583 [1212470]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 11:08:24,686 [1212573]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 11:08:24,712 [1212599]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 416 ms; 1 sources processed (416 ms per file)
+2024-02-20 11:08:24,732 [1212619]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1014, regularPageLoads=46, pageLoadsAboveSizeThreshold=0, pageLoadUs=35744, pageDisposalUs=81, capacityInBytes=503316478, disposedBuffers=46 maxRegisteredFiles=46 maxCacheSizeInBytes=29851648totalSizeCachedBytes=0
+2024-02-20 11:08:25,173 [      7]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 11:08:25,206 [     40]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 11:08:25,352 [    186]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 128 ms
+2024-02-20 11:08:25,371 [    205]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 11:08:25,513 [    347]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 141 ms
+2024-02-20 11:08:25,515 [    349]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 11:08:25,555 [    389]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 11:08:25,556 [    390]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 11:08:25,556 [    390]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 11:08:25,556 [    390]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 11:08:25,557 [    391]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 11:08:25,557 [    391]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 11:08:25,557 [    391]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 11:08:25,557 [    391]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 11:08:25,665 [    499]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 492 ms
+2024-02-20 11:10:28,783 [ 123617]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 11:10:28,784 [ 123618]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 11:10:28,785 [ 123619]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 11:10:28,787 [ 123621]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 11:10:28,788 [ 123622]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 242a71b5
+2024-02-20 11:10:28,792 [ 123626]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:10:28,793 [ 123627]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:10:28,803 [ 123637]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 11:10:28,888 [ 123722]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 21 ms
+2024-02-20 11:10:28,905 [ 123739]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 40 ms
+2024-02-20 11:10:29,673 [ 124507]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 11:10:29,764 [ 124598]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 11:10:29,785 [ 124619]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 434 ms; 1 sources processed (434 ms per file)
+2024-02-20 11:10:29,802 [ 124636]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=999, regularPageLoads=44, pageLoadsAboveSizeThreshold=0, pageLoadUs=35010, pageDisposalUs=87, capacityInBytes=503316478, disposedBuffers=44 maxRegisteredFiles=46 maxCacheSizeInBytes=28704768totalSizeCachedBytes=0
+2024-02-20 11:10:30,232 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 11:10:30,254 [     28]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 11:10:30,382 [    156]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 113 ms
+2024-02-20 11:10:30,404 [    178]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 11:10:30,549 [    323]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 144 ms
+2024-02-20 11:10:30,552 [    326]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 11:10:30,594 [    368]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 11:10:30,594 [    368]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 11:10:30,594 [    368]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 11:10:30,595 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 11:10:30,595 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 11:10:30,595 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 11:10:30,595 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 11:10:30,596 [    370]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 11:10:30,712 [    486]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 479 ms
+2024-02-20 11:11:02,765 [  32539]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 11:11:02,766 [  32540]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 11:11:02,766 [  32540]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 11:11:02,769 [  32543]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 11:11:02,769 [  32543]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 2ce63438
+2024-02-20 11:11:02,773 [  32547]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:11:02,775 [  32549]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:11:02,785 [  32559]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 11:11:02,868 [  32642]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 21 ms
+2024-02-20 11:11:02,884 [  32658]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 38 ms
+2024-02-20 11:11:03,659 [  33433]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 11:11:03,755 [  33529]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 11:11:03,777 [  33551]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 433 ms; 1 sources processed (433 ms per file)
+2024-02-20 11:11:03,791 [  33565]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=999, regularPageLoads=44, pageLoadsAboveSizeThreshold=0, pageLoadUs=37154, pageDisposalUs=95, capacityInBytes=503316478, disposedBuffers=44 maxRegisteredFiles=46 maxCacheSizeInBytes=28704768totalSizeCachedBytes=0
+2024-02-20 11:11:04,219 [      4]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 11:11:04,242 [     27]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 11:11:04,366 [    151]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 109 ms
+2024-02-20 11:11:04,388 [    173]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 11:11:04,539 [    324]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 150 ms
+2024-02-20 11:11:04,541 [    326]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 11:11:04,582 [    367]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 11:11:04,582 [    367]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 11:11:04,582 [    367]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 11:11:04,583 [    368]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 11:11:04,583 [    368]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 11:11:04,583 [    368]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 11:11:04,583 [    368]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 11:11:04,584 [    369]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 11:11:04,693 [    478]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 473 ms
+2024-02-20 11:27:13,450 [ 969235]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 11:27:13,452 [ 969237]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 11:27:13,452 [ 969237]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 11:27:13,454 [ 969239]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 11:27:13,455 [ 969240]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 4fae791c
+2024-02-20 11:27:13,459 [ 969244]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:27:13,460 [ 969245]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:27:13,470 [ 969255]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 11:27:13,554 [ 969339]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 22 ms
+2024-02-20 11:27:13,569 [ 969354]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 38 ms
+2024-02-20 11:27:14,320 [ 970105]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 11:27:14,430 [ 970215]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 11:27:14,459 [ 970244]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 430 ms; 1 sources processed (430 ms per file)
+2024-02-20 11:27:14,476 [ 970261]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1067, regularPageLoads=46, pageLoadsAboveSizeThreshold=0, pageLoadUs=39348, pageDisposalUs=84, capacityInBytes=503316478, disposedBuffers=46 maxRegisteredFiles=46 maxCacheSizeInBytes=29851648totalSizeCachedBytes=0
+2024-02-20 11:27:14,906 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 11:27:14,929 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 11:27:15,053 [    153]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 110 ms
+2024-02-20 11:27:15,073 [    173]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 11:27:15,214 [    314]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 141 ms
+2024-02-20 11:27:15,218 [    318]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 11:27:15,260 [    360]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 11:27:15,261 [    361]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 11:27:15,261 [    361]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 11:27:15,261 [    361]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 11:27:15,262 [    362]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 11:27:15,262 [    362]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 11:27:15,262 [    362]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 11:27:15,262 [    362]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 11:27:15,370 [    470]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 463 ms
+2024-02-20 11:39:18,742 [ 723842]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 11:39:18,744 [ 723844]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 11:39:18,744 [ 723844]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 11:39:18,747 [ 723847]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 11:39:18,747 [ 723847]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started d8ffd695
+2024-02-20 11:39:18,751 [ 723851]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:39:18,753 [ 723853]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 11:39:18,763 [ 723863]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 11:39:18,853 [ 723953]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 22 ms
+2024-02-20 11:39:18,868 [ 723968]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 38 ms
+2024-02-20 11:39:19,582 [ 724682]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled with errors
+2024-02-20 11:39:19,612 [ 724712]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=510, regularPageLoads=28, pageLoadsAboveSizeThreshold=0, pageLoadUs=27777, pageDisposalUs=54, capacityInBytes=503316478, disposedBuffers=28 maxRegisteredFiles=37 maxCacheSizeInBytes=20185088totalSizeCachedBytes=0
+2024-02-20 11:39:20,029 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 11:39:20,061 [     38]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 11:39:20,192 [    169]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 115 ms
+2024-02-20 11:39:20,212 [    189]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 11:39:20,363 [    340]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 151 ms
+2024-02-20 11:39:20,366 [    343]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 11:39:20,407 [    384]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 11:39:20,408 [    385]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 11:39:20,408 [    385]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 11:39:20,408 [    385]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 11:39:20,409 [    386]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 11:39:20,409 [    386]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 11:39:20,409 [    386]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 11:39:20,409 [    386]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 11:39:20,524 [    501]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 495 ms
+2024-02-20 12:36:12,935 [     14]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 12:36:12,980 [     59]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 12:36:13,284 [    363]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 264 ms
+2024-02-20 12:36:13,442 [    521]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 12:36:13,717 [    796]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 272 ms
+2024-02-20 12:36:13,730 [    809]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 12:36:13,807 [    886]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 12:36:13,808 [    887]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 12:36:13,808 [    887]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 12:36:13,808 [    887]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 12:36:13,809 [    888]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 12:36:13,809 [    888]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 12:36:13,810 [    889]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 12:36:13,810 [    889]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 12:36:14,023 [   1102]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=207, regularPageLoads=16, pageLoadsAboveSizeThreshold=0, pageLoadUs=31934, pageDisposalUs=48, capacityInBytes=503316478, disposedBuffers=16 maxRegisteredFiles=25 maxCacheSizeInBytes=13729792totalSizeCachedBytes=0
+2024-02-20 14:35:08,803 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:35:08,826 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:35:08,964 [    167]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 123 ms
+2024-02-20 14:35:09,044 [    247]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:35:09,166 [    369]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 121 ms
+2024-02-20 14:35:09,168 [    371]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:35:09,212 [    415]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:35:09,212 [    415]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:35:09,212 [    415]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:35:09,213 [    416]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:35:09,213 [    416]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:35:09,213 [    416]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:35:09,213 [    416]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:35:09,214 [    417]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:35:09,355 [    558]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:false parallel compilation:false
+2024-02-20 14:35:09,357 [    560]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 14:35:09,357 [    560]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 14:35:09,361 [    564]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 14:35:09,361 [    564]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started d6d34d38
+2024-02-20 14:35:09,366 [    569]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:35:09,367 [    570]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:35:09,389 [    592]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 12 ms
+2024-02-20 14:35:09,541 [    744]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 23 ms
+2024-02-20 14:35:09,550 [    753]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 33 ms
+2024-02-20 14:35:12,318 [   3521]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 14:35:12,453 [   3656]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 14:35:12,486 [   3689]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 2 s 874 ms; 1 sources processed (2874 ms per file)
+2024-02-20 14:35:12,515 [   3718]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=2815, regularPageLoads=59, pageLoadsAboveSizeThreshold=0, pageLoadUs=42378, pageDisposalUs=135, capacityInBytes=503316478, disposedBuffers=59 maxRegisteredFiles=46 maxCacheSizeInBytes=27721728totalSizeCachedBytes=0
+2024-02-20 14:35:12,943 [      8]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:35:12,970 [     35]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:35:13,127 [    192]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 140 ms
+2024-02-20 14:35:13,155 [    220]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:35:13,311 [    376]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 156 ms
+2024-02-20 14:35:13,314 [    379]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:35:13,356 [    421]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:35:13,356 [    421]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:35:13,356 [    421]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:35:13,357 [    422]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:35:13,357 [    422]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:35:13,357 [    422]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:35:13,357 [    422]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:35:13,358 [    423]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:35:13,473 [    538]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 530 ms
+2024-02-20 14:35:13,507 [    572]   INFO - #o.j.j.c.BuildMain - Build canceled, but no build session is running. Exiting.
+2024-02-20 14:42:06,028 [      4]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:42:06,051 [     27]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:42:06,180 [    156]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 114 ms
+2024-02-20 14:42:06,272 [    248]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:42:06,393 [    369]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 121 ms
+2024-02-20 14:42:06,396 [    372]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:42:06,438 [    414]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:42:06,438 [    414]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:42:06,438 [    414]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:42:06,439 [    415]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:42:06,439 [    415]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:42:06,439 [    415]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:42:06,439 [    415]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:42:06,440 [    416]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:42:06,552 [    528]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 14:42:06,553 [    529]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 14:42:06,553 [    529]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 14:42:06,556 [    532]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 14:42:06,556 [    532]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 46ac5e9e
+2024-02-20 14:42:06,561 [    537]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:42:06,562 [    538]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:42:06,574 [    550]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 14:42:06,716 [    692]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 26 ms
+2024-02-20 14:42:06,734 [    710]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 45 ms
+2024-02-20 14:42:07,503 [   1479]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 14:42:07,602 [   1578]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 14:42:07,623 [   1599]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 467 ms; 1 sources processed (467 ms per file)
+2024-02-20 14:42:07,642 [   1618]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1040, regularPageLoads=48, pageLoadsAboveSizeThreshold=0, pageLoadUs=34021, pageDisposalUs=84, capacityInBytes=503316478, disposedBuffers=48 maxRegisteredFiles=46 maxCacheSizeInBytes=28803072totalSizeCachedBytes=0
+2024-02-20 14:42:08,068 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:42:08,100 [     38]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:42:08,237 [    175]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 119 ms
+2024-02-20 14:42:08,258 [    196]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:42:08,402 [    340]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 144 ms
+2024-02-20 14:42:08,405 [    343]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:42:08,445 [    383]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:42:08,445 [    383]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:42:08,445 [    383]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:42:08,446 [    384]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:42:08,446 [    384]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:42:08,446 [    384]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:42:08,446 [    384]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:42:08,447 [    385]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:42:08,556 [    494]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 487 ms
+2024-02-20 14:46:14,418 [ 246356]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 14:46:14,420 [ 246358]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 14:46:14,420 [ 246358]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 14:46:14,422 [ 246360]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 14:46:14,422 [ 246360]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 383ee368
+2024-02-20 14:46:14,427 [ 246365]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:46:14,428 [ 246366]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:46:14,437 [ 246375]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 14:46:14,529 [ 246467]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 28 ms
+2024-02-20 14:46:14,546 [ 246484]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 46 ms
+2024-02-20 14:46:15,284 [ 247222]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled with errors
+2024-02-20 14:46:15,317 [ 247255]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=510, regularPageLoads=28, pageLoadsAboveSizeThreshold=0, pageLoadUs=27445, pageDisposalUs=50, capacityInBytes=503316478, disposedBuffers=28 maxRegisteredFiles=37 maxCacheSizeInBytes=20185088totalSizeCachedBytes=0
+2024-02-20 14:46:15,732 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:46:15,755 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:46:15,883 [    157]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 115 ms
+2024-02-20 14:46:15,902 [    176]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:46:16,038 [    312]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 136 ms
+2024-02-20 14:46:16,041 [    315]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:46:16,080 [    354]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:46:16,081 [    355]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:46:16,081 [    355]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:46:16,081 [    355]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:46:16,082 [    356]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:46:16,082 [    356]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:46:16,082 [    356]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:46:16,082 [    356]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:46:16,188 [    462]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 457 ms
+2024-02-20 14:47:09,247 [  53521]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 14:47:09,248 [  53522]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 14:47:09,248 [  53522]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 14:47:09,251 [  53525]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 14:47:09,251 [  53525]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 3e967c12
+2024-02-20 14:47:09,255 [  53529]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:47:09,256 [  53530]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:47:09,266 [  53540]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 14:47:09,353 [  53627]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 25 ms
+2024-02-20 14:47:09,369 [  53643]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 45 ms
+2024-02-20 14:47:10,069 [  54343]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled with errors
+2024-02-20 14:47:10,110 [  54384]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=332, regularPageLoads=24, pageLoadsAboveSizeThreshold=0, pageLoadUs=26467, pageDisposalUs=43, capacityInBytes=503316478, disposedBuffers=24 maxRegisteredFiles=34 maxCacheSizeInBytes=19070976totalSizeCachedBytes=0
+2024-02-20 14:47:10,520 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:47:10,543 [     28]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:47:10,675 [    160]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 117 ms
+2024-02-20 14:47:10,693 [    178]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:47:10,833 [    318]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 139 ms
+2024-02-20 14:47:10,836 [    321]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:47:10,879 [    364]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:47:10,879 [    364]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:47:10,879 [    364]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:47:10,880 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:47:10,880 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:47:10,880 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:47:10,880 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:47:10,881 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:47:10,990 [    475]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 470 ms
+2024-02-20 14:47:24,305 [  13790]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 14:47:24,306 [  13791]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 14:47:24,306 [  13791]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 14:47:24,309 [  13794]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 14:47:24,309 [  13794]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 4cb21c7e
+2024-02-20 14:47:24,314 [  13799]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:47:24,315 [  13800]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:47:24,325 [  13810]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 14:47:24,417 [  13902]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 23 ms
+2024-02-20 14:47:24,433 [  13918]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 43 ms
+2024-02-20 14:47:25,182 [  14667]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 14:47:25,308 [  14793]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 14:47:25,337 [  14822]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 458 ms; 1 sources processed (458 ms per file)
+2024-02-20 14:47:25,359 [  14844]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=899, regularPageLoads=46, pageLoadsAboveSizeThreshold=0, pageLoadUs=40689, pageDisposalUs=116, capacityInBytes=503316478, disposedBuffers=46 maxRegisteredFiles=46 maxCacheSizeInBytes=29818880totalSizeCachedBytes=0
+2024-02-20 14:47:25,786 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:47:25,808 [     27]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:47:25,942 [    161]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 119 ms
+2024-02-20 14:47:25,964 [    183]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:47:26,109 [    328]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 144 ms
+2024-02-20 14:47:26,111 [    330]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:47:26,153 [    372]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:47:26,153 [    372]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:47:26,153 [    372]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:47:26,154 [    373]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:47:26,154 [    373]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:47:26,154 [    373]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:47:26,154 [    373]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:47:26,155 [    374]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:47:26,262 [    481]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 476 ms
+2024-02-20 14:50:13,914 [ 168133]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 14:50:13,915 [ 168134]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 14:50:13,915 [ 168134]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 14:50:13,918 [ 168137]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 14:50:13,918 [ 168137]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 27246b9
+2024-02-20 14:50:13,922 [ 168141]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:50:13,924 [ 168143]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:50:13,933 [ 168152]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 14:50:14,018 [ 168237]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 23 ms
+2024-02-20 14:50:14,033 [ 168252]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 39 ms
+2024-02-20 14:50:14,742 [ 168961]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 14:50:14,830 [ 169049]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 14:50:14,852 [ 169071]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 405 ms; 1 sources processed (405 ms per file)
+2024-02-20 14:50:14,869 [ 169088]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=947, regularPageLoads=44, pageLoadsAboveSizeThreshold=0, pageLoadUs=36724, pageDisposalUs=95, capacityInBytes=503316478, disposedBuffers=44 maxRegisteredFiles=46 maxCacheSizeInBytes=28704768totalSizeCachedBytes=0
+2024-02-20 14:50:15,298 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:50:15,320 [     27]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:50:15,449 [    156]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 114 ms
+2024-02-20 14:50:15,469 [    176]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:50:15,614 [    321]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 145 ms
+2024-02-20 14:50:15,617 [    324]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:50:15,657 [    364]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:50:15,657 [    364]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:50:15,658 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:50:15,658 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:50:15,658 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:50:15,659 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:50:15,659 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:50:15,659 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:50:15,766 [    473]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 468 ms
+2024-02-20 14:50:40,515 [  25222]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 14:50:40,516 [  25223]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 14:50:40,517 [  25224]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 14:50:40,519 [  25226]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 14:50:40,520 [  25227]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 9a46aabe
+2024-02-20 14:50:40,524 [  25231]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:50:40,525 [  25232]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 14:50:40,535 [  25242]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 14:50:40,624 [  25331]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 22 ms
+2024-02-20 14:50:40,638 [  25345]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 38 ms
+2024-02-20 14:50:41,264 [  25971]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled with errors
+2024-02-20 14:50:41,289 [  25996]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=510, regularPageLoads=28, pageLoadsAboveSizeThreshold=0, pageLoadUs=28296, pageDisposalUs=59, capacityInBytes=503316478, disposedBuffers=28 maxRegisteredFiles=37 maxCacheSizeInBytes=20185088totalSizeCachedBytes=0
+2024-02-20 14:50:41,700 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 14:50:41,724 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 14:50:41,853 [    158]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 114 ms
+2024-02-20 14:50:41,872 [    177]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 14:50:42,009 [    314]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 137 ms
+2024-02-20 14:50:42,012 [    317]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 14:50:42,052 [    357]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 14:50:42,052 [    357]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 14:50:42,052 [    357]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 14:50:42,053 [    358]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 14:50:42,053 [    358]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 14:50:42,053 [    358]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 14:50:42,053 [    358]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 14:50:42,054 [    359]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 14:50:42,163 [    468]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 463 ms
+2024-02-20 22:36:47,588 [     12]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 22:36:47,628 [     52]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 22:36:47,884 [    308]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 231 ms
+2024-02-20 22:36:48,039 [    463]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 22:36:48,238 [    662]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 200 ms
+2024-02-20 22:36:48,242 [    666]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 22:36:48,309 [    733]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 22:36:48,310 [    734]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 22:36:48,310 [    734]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 22:36:48,311 [    735]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 22:36:48,312 [    736]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 22:36:48,312 [    736]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 22:36:48,312 [    736]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 22:36:48,313 [    737]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 22:36:48,569 [    993]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=207, regularPageLoads=16, pageLoadsAboveSizeThreshold=0, pageLoadUs=35185, pageDisposalUs=58, capacityInBytes=503316478, disposedBuffers=16 maxRegisteredFiles=25 maxCacheSizeInBytes=13729792totalSizeCachedBytes=0
+2024-02-20 22:48:28,517 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 22:48:28,543 [     31]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 22:48:28,683 [    171]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 124 ms
+2024-02-20 22:48:28,762 [    250]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Function, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 22:48:28,878 [    366]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 116 ms
+2024-02-20 22:48:28,881 [    369]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 22:48:28,933 [    421]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 22:48:28,934 [    422]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 22:48:28,934 [    422]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 22:48:28,934 [    422]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 22:48:28,935 [    423]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 22:48:28,935 [    423]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 22:48:28,936 [    424]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 22:48:28,936 [    424]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 22:48:29,092 [    580]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=207, regularPageLoads=16, pageLoadsAboveSizeThreshold=0, pageLoadUs=26324, pageDisposalUs=28, capacityInBytes=503316478, disposedBuffers=16 maxRegisteredFiles=25 maxCacheSizeInBytes=13729792totalSizeCachedBytes=0
+2024-02-20 22:49:34,846 [      5]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 22:49:34,868 [     27]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 22:49:35,000 [    159]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 119 ms
+2024-02-20 22:49:35,069 [    228]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 22:49:35,191 [    350]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 121 ms
+2024-02-20 22:49:35,193 [    352]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 22:49:35,232 [    391]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 22:49:35,233 [    392]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 22:49:35,233 [    392]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 22:49:35,233 [    392]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 22:49:35,234 [    393]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 22:49:35,234 [    393]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 22:49:35,234 [    393]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 22:49:35,234 [    393]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 22:49:35,383 [    542]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=207, regularPageLoads=16, pageLoadsAboveSizeThreshold=0, pageLoadUs=27166, pageDisposalUs=27, capacityInBytes=503316478, disposedBuffers=16 maxRegisteredFiles=25 maxCacheSizeInBytes=13729792totalSizeCachedBytes=0
+2024-02-20 23:01:13,955 [      7]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 23:01:13,987 [     39]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 23:01:14,144 [    196]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 141 ms
+2024-02-20 23:01:14,222 [    274]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 23:01:14,341 [    393]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 118 ms
+2024-02-20 23:01:14,344 [    396]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 23:01:14,386 [    438]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 23:01:14,386 [    438]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 23:01:14,387 [    439]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 23:01:14,387 [    439]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 23:01:14,388 [    440]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 23:01:14,388 [    440]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 23:01:14,388 [    440]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 23:01:14,388 [    440]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 23:01:14,515 [    567]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 23:01:14,516 [    568]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 23:01:14,517 [    569]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 23:01:14,521 [    573]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 23:01:14,521 [    573]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 3539ec2d
+2024-02-20 23:01:14,526 [    578]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:01:14,527 [    579]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:01:14,541 [    593]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 23:01:14,671 [    723]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 30 ms
+2024-02-20 23:01:14,691 [    743]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 51 ms
+2024-02-20 23:01:17,649 [   3701]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 23:01:17,785 [   3837]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 23:01:17,814 [   3866]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 2 s 71 ms; 1 sources processed (2071 ms per file)
+2024-02-20 23:01:17,836 [   3888]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=974, regularPageLoads=48, pageLoadsAboveSizeThreshold=0, pageLoadUs=39451, pageDisposalUs=88, capacityInBytes=503316478, disposedBuffers=48 maxRegisteredFiles=46 maxCacheSizeInBytes=28770304totalSizeCachedBytes=0
+2024-02-20 23:01:18,252 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 23:01:18,279 [     33]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 23:01:18,460 [    214]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 160 ms
+2024-02-20 23:01:18,485 [    239]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 23:01:18,633 [    387]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 148 ms
+2024-02-20 23:01:18,636 [    390]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 23:01:18,678 [    432]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 23:01:18,678 [    432]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 23:01:18,679 [    433]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 23:01:18,679 [    433]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 23:01:18,679 [    433]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 23:01:18,680 [    434]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 23:01:18,680 [    434]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 23:01:18,680 [    434]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 23:01:18,793 [    547]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 541 ms
+2024-02-20 23:09:05,871 [ 467625]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 23:09:05,873 [ 467627]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 23:09:05,873 [ 467627]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 23:09:05,875 [ 467629]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 23:09:05,876 [ 467630]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started 58afe1fe
+2024-02-20 23:09:05,881 [ 467635]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:09:05,882 [ 467636]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:09:05,892 [ 467646]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 23:09:05,983 [ 467737]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 21 ms
+2024-02-20 23:09:05,998 [ 467752]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 41 ms
+2024-02-20 23:09:06,951 [ 468705]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 23:09:07,049 [ 468803]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 23:09:07,072 [ 468826]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 563 ms; 1 sources processed (563 ms per file)
+2024-02-20 23:09:07,091 [ 468845]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1013, regularPageLoads=46, pageLoadsAboveSizeThreshold=0, pageLoadUs=37970, pageDisposalUs=94, capacityInBytes=503316478, disposedBuffers=46 maxRegisteredFiles=46 maxCacheSizeInBytes=28803072totalSizeCachedBytes=0
+2024-02-20 23:09:07,518 [      7]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 23:09:07,543 [     32]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 23:09:07,681 [    170]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 124 ms
+2024-02-20 23:09:07,704 [    193]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 23:09:07,863 [    352]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 160 ms
+2024-02-20 23:09:07,866 [    355]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 23:09:07,910 [    399]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 23:09:07,910 [    399]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 23:09:07,911 [    400]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 23:09:07,911 [    400]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 23:09:07,911 [    400]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 23:09:07,911 [    400]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 23:09:07,912 [    401]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 23:09:07,912 [    401]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 23:09:08,031 [    520]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 512 ms
+2024-02-20 23:17:46,245 [ 518734]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 23:17:46,247 [ 518736]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 23:17:46,247 [ 518736]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 23:17:46,249 [ 518738]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 23:17:46,250 [ 518739]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started b5c2d099
+2024-02-20 23:17:46,254 [ 518743]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:17:46,256 [ 518745]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:17:46,267 [ 518756]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 1 ms
+2024-02-20 23:17:46,358 [ 518847]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 19 ms
+2024-02-20 23:17:46,373 [ 518862]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 39 ms
+2024-02-20 23:17:47,325 [ 519814]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 23:17:47,431 [ 519920]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 23:17:47,459 [ 519948]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 631 ms; 1 sources processed (631 ms per file)
+2024-02-20 23:17:47,477 [ 519966]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=1018, regularPageLoads=46, pageLoadsAboveSizeThreshold=0, pageLoadUs=37549, pageDisposalUs=100, capacityInBytes=503316478, disposedBuffers=46 maxRegisteredFiles=46 maxCacheSizeInBytes=28803072totalSizeCachedBytes=0
+2024-02-20 23:17:47,906 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 23:17:47,929 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 23:17:48,069 [    169]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 123 ms
+2024-02-20 23:17:48,089 [    189]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 23:17:48,234 [    334]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 145 ms
+2024-02-20 23:17:48,237 [    337]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 23:17:48,277 [    377]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 23:17:48,277 [    377]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 23:17:48,277 [    377]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 23:17:48,278 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 23:17:48,278 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 23:17:48,278 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 23:17:48,278 [    378]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 23:17:48,279 [    379]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 23:17:48,388 [    488]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 481 ms
+2024-02-20 23:18:46,999 [  59099]   INFO - #o.j.j.i.IncProjectBuilder - Building project; isRebuild:false; isMake:true parallel compilation:false
+2024-02-20 23:18:47,001 [  59101]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JVM: true
+2024-02-20 23:18:47,001 [  59101]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin incremental compilation enabled for JS: true
+2024-02-20 23:18:47,004 [  59104]   INFO - #o.j.k.j.b.KotlinBuilder - is Kotlin compiler daemon enabled: true
+2024-02-20 23:18:47,004 [  59104]   INFO - #o.j.k.j.b.KotlinBuilder - Label in local history: build started db21f5cd
+2024-02-20 23:18:47,009 [  59109]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:18:47,010 [  59110]   INFO - #o.j.j.b.i.CompilerReferenceIndex - backward reference index version doesn't exist
+2024-02-20 23:18:47,019 [  59119]   INFO - #o.j.j.i.IncProjectBuilder - Cleaned output directories in 0 ms
+2024-02-20 23:18:47,114 [  59214]   INFO - #o.j.k.j.b.KotlinBuilder - KotlinTargetsIndex created in 23 ms
+2024-02-20 23:18:47,129 [  59229]   INFO - #o.j.k.j.b.KotlinBuilder - Total Kotlin global compile context initialization time: 39 ms
+2024-02-20 23:18:47,989 [  60089]   INFO - #o.j.k.j.b.KotlinBuilder - Compiled successfully
+2024-02-20 23:18:48,108 [  60208]   INFO - #o.j.j.i.Builder - Dependency analysis found 0 affected files
+2024-02-20 23:18:48,132 [  60232]   INFO - #o.j.j.c.BuildSession - Build duration: Builder 'Kotlin Builder' took 537 ms; 1 sources processed (537 ms per file)
+2024-02-20 23:18:48,153 [  60253]   INFO - #o.j.j.c.BuildSession - FilePageCache stats: pageHits=0, pageFastCacheHits=988, regularPageLoads=45, pageLoadsAboveSizeThreshold=0, pageLoadUs=38172, pageDisposalUs=93, capacityInBytes=503316478, disposedBuffers=45 maxRegisteredFiles=46 maxCacheSizeInBytes=28770304totalSizeCachedBytes=0
+2024-02-20 23:18:48,573 [      6]   INFO - #o.j.j.c.BuildMain - ==================================================
+2024-02-20 23:18:48,596 [     29]   INFO - #o.j.j.c.BuildMain - Build process started. Classpath: /opt/intellij-idea-community/plugins/java/lib/jps-launcher.jar
+2024-02-20 23:18:48,724 [    157]   INFO - #o.j.j.c.BuildMain - Connection to IDE established in 113 ms
+2024-02-20 23:18:48,745 [    178]   INFO - #o.j.j.c.JpsModelLoaderImpl - Loading model: project path = /home/student/IdeaProjects/Assignment, global options path = /home/student/.config/JetBrains/IdeaIC2023.3/options
+2024-02-20 23:18:48,889 [    322]   INFO - #o.j.j.c.JpsModelLoaderImpl - Model loaded in 144 ms
+2024-02-20 23:18:48,891 [    324]   INFO - #o.j.j.c.JpsModelLoaderImpl - Project has 1 modules, 1 libraries
+2024-02-20 23:18:48,931 [    364]   INFO - #c.i.u.i.PageCacheUtils - File page caching params:
+2024-02-20 23:18:48,932 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	DEFAULT_PAGE_SIZE: 10485760
+2024-02-20 23:18:48,932 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	Direct memory to use, max: 713031680
+2024-02-20 23:18:48,932 [    365]   INFO - #c.i.u.i.PageCacheUtils - 	FilePageCache: regular + lock-free (LOCK_FREE_PAGE_CACHE_ENABLED:true)
+2024-02-20 23:18:48,933 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	NEW_PAGE_CACHE_MEMORY_FRACTION: 0.20000000298023224
+2024-02-20 23:18:48,933 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	Regular FilePageCache: 503316478 bytes
+2024-02-20 23:18:48,933 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	New     FilePageCache: 125829122 bytes (+ up to 10.0% overflow)
+2024-02-20 23:18:48,933 [    366]   INFO - #c.i.u.i.PageCacheUtils - 	DirectByteBuffers pool: 0 bytes
+2024-02-20 23:18:49,069 [    502]   INFO - #o.j.j.c.BuildMain - Pre-loaded process ready in 496 ms

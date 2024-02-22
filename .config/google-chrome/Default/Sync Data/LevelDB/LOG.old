@@ -1,0 +1,42 @@
+2024/02/21-08:55:02.336 b7f Reusing MANIFEST /home/student/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/02/21-08:55:02.345 b7f Recovering log #53
+2024/02/21-08:55:02.346 b7f Reusing old log /home/student/.config/google-chrome/Default/Sync Data/LevelDB/000053.log 
+2024/02/21-11:03:45.453 b8c Level-0 table #57: started
+2024/02/21-11:03:45.459 b8c Level-0 table #57: 83386 bytes OK
+2024/02/21-11:03:45.465 b8c Delete type=0 #53
+2024/02/21-11:03:45.465 b8c Compacting 4@0 + 1@1 files
+2024/02/21-11:03:45.470 b8c Generated table #58@0: 126 keys, 21964 bytes
+2024/02/21-11:03:45.470 b8c Compacted 4@0 + 1@1 files => 21964 bytes
+2024/02/21-11:03:45.473 b8c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/21-11:03:45.473 b8c Delete type=2 #54
+2024/02/21-11:03:45.473 b8c Delete type=2 #48
+2024/02/21-11:03:45.473 b8c Delete type=2 #57
+2024/02/21-11:03:45.473 b8c Delete type=2 #52
+2024/02/21-11:03:45.473 b8c Delete type=2 #50
+2024/02/21-12:04:54.384 b7f Level-0 table #60: started
+2024/02/21-12:04:54.389 b7f Level-0 table #60: 67895 bytes OK
+2024/02/21-12:04:54.394 b7f Delete type=0 #56
+2024/02/21-12:37:44.568 b7f Level-0 table #62: started
+2024/02/21-12:37:44.639 b7f Level-0 table #62: 66664 bytes OK
+2024/02/21-12:37:44.645 b7f Delete type=0 #59
+2024/02/21-13:55:14.232 b7f Level-0 table #64: started
+2024/02/21-13:55:14.236 b7f Level-0 table #64: 80256 bytes OK
+2024/02/21-13:55:14.240 b7f Delete type=0 #61
+2024/02/21-14:34:14.300 b7f Level-0 table #66: started
+2024/02/21-14:34:14.305 b7f Level-0 table #66: 93084 bytes OK
+2024/02/21-14:34:14.309 b7f Delete type=0 #63
+2024/02/21-14:34:14.309 b7f Compacting 4@0 + 1@1 files
+2024/02/21-14:34:14.314 b7f Generated table #67@0: 140 keys, 15026 bytes
+2024/02/21-14:34:14.314 b7f Compacted 4@0 + 1@1 files => 15026 bytes
+2024/02/21-14:34:14.317 b7f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/21-14:34:14.317 b7f Delete type=2 #64
+2024/02/21-14:34:14.317 b7f Delete type=2 #62
+2024/02/21-14:34:14.317 b7f Delete type=2 #60
+2024/02/21-14:34:14.317 b7f Delete type=2 #58
+2024/02/21-14:34:14.317 b7f Delete type=2 #66
+2024/02/21-15:28:50.313 b7f Level-0 table #69: started
+2024/02/21-15:28:50.317 b7f Level-0 table #69: 75013 bytes OK
+2024/02/21-15:28:50.322 b7f Delete type=0 #65
+2024/02/21-16:18:35.901 b7f Level-0 table #71: started
+2024/02/21-16:18:35.904 b7f Level-0 table #71: 86261 bytes OK
+2024/02/21-16:18:35.908 b7f Delete type=0 #68

@@ -1,0 +1,63 @@
+{
+  "Version": "22.04",
+  "OEM": {
+    "Vendor": "LENOVO",
+    "Product": "21ECS1S100",
+    "Family": "ThinkPad E14 Gen 4"
+  },
+  "BIOS": {
+    "Vendor": "LENOVO",
+    "Version": "R20ET35W (1.15 )"
+  },
+  "Arch": "amd64",
+  "HwCap": "x86-64-v3",
+  "GPU": [
+    {
+      "Vendor": "1002",
+      "Model": "15e7"
+    }
+  ],
+  "RAM": 15.2,
+  "Partitions": [
+    97.9,
+    0.3
+  ],
+  "Screens": [
+    {
+      "Size": "310mmx170mm",
+      "Resolution": "1920x1080",
+      "Frequency": "59.96"
+    }
+  ],
+  "Autologin": false,
+  "LivePatch": false,
+  "Session": {
+    "DE": "ubuntu:GNOME",
+    "Name": "ubuntu",
+    "Type": "wayland"
+  },
+  "Language": "en_US",
+  "Timezone": "America/New_York",
+  "Install": {
+    "Media": "Ubuntu 22.04.2 LTS \"Jammy Jellyfish\" - Release amd64 (20230223)",
+    "Type": "GTK",
+    "OEM": true,
+    "PartitionMethod": "reinstall_partition",
+    "DownloadUpdates": false,
+    "Language": "en",
+    "Minimal": false,
+    "RestrictedAddons": true,
+    "Stages": {
+      "0": "language",
+      "28": "console_setup",
+      "30": "wireless",
+      "39": "prepare",
+      "51": "partman",
+      "60": "start_install",
+      "64": "timezone",
+      "69": "usersetup",
+      "80": "user_done",
+      "264": "done"
+    }
+  }
+}

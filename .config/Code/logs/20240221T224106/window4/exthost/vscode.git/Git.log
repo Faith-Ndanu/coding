@@ -1,0 +1,23 @@
+2024-02-21 22:41:10.909 [info] Log level: Info
+2024-02-21 22:41:10.909 [info] Validating found git in: "git"
+2024-02-21 22:41:10.909 [info] Using git "2.34.1" from "git"
+2024-02-21 22:41:10.909 [info] > git rev-parse --show-toplevel [22ms]
+2024-02-21 22:41:10.962 [info] > git rev-parse --git-dir --git-common-dir [13ms]
+2024-02-21 22:41:10.985 [info] Open repository: /home/student/Css-Assignment
+2024-02-21 22:41:11.136 [info] > git rev-parse --show-toplevel [114ms]
+2024-02-21 22:41:11.155 [info] > git config --get commit.template [148ms]
+2024-02-21 22:41:11.252 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [17ms]
+2024-02-21 22:41:11.293 [info] > git status -z -uall [27ms]
+2024-02-21 22:41:11.337 [info] > git config --get commit.template [2ms]
+2024-02-21 22:41:11.369 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [6ms]
+2024-02-21 22:41:11.544 [info] > git status -z -uall [9ms]
+2024-02-21 22:41:11.707 [info] > git check-ignore -v -z --stdin [4ms]
+2024-02-21 22:41:11.978 [info] > git show --textconv :style.css [22ms]
+2024-02-21 22:41:11.985 [info] > git ls-files --stage -- /home/student/Css-Assignment/style.css [6ms]
+2024-02-21 22:41:12.002 [info] > git cat-file -s d33fb04d82c14ec830670b34a3a441872da3c3bc [2ms]
+2024-02-22 02:06:28.967 [info] > git show --textconv :index.html [9ms]
+2024-02-22 02:06:28.968 [info] > git ls-files --stage -- /home/student/Css-Assignment/index.html [3ms]
+2024-02-22 02:06:28.975 [info] > git cat-file -s e6d3f519ce68c9ff635ab0cb9b7f4169f82435ad [1ms]
+2024-02-22 04:35:25.113 [info] > git show --textconv :style.css [7ms]
+2024-02-22 04:35:25.114 [info] > git ls-files --stage -- /home/student/Css-Assignment/style.css [2ms]
+2024-02-22 04:35:25.122 [info] > git cat-file -s d33fb04d82c14ec830670b34a3a441872da3c3bc [2ms]

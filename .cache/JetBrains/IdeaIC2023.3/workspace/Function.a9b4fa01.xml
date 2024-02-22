@@ -1,0 +1,10 @@
+<project version="4">
+  <component name="ProcessedFilesStorage">
+    <timestamps>
+      <entry key="5432465fc7f98834e197c7d6e36a1305" value="1708438635752" />
+    </timestamps>
+  </component>
+  <component name="ProjectDependenciesModelState">
+    <option name="PROJECT_STATE" value="[{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;org.jetbrains.kotlin&quot;,&quot;name&quot;:&quot;kotlin-stdlib-jdk8&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;1.9.22&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.22:null:null&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.22&quot;,&quot;searchCoordinates&quot;:&quot;org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.22&quot;,&quot;searchKey&quot;:&quot;4bab7b31b9d7e63803bb7bb7c0f292d0084b23500ebd0c5978016dfe8d305d31&quot;}]" />
+  </component>
+</project>

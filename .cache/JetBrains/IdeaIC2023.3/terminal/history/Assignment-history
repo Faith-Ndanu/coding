@@ -1,0 +1,61 @@
+git init
+git add .
+git commit -m "created files"
+git config --global user.email "faithndanumunyao@gmail.com"
+git config --global user.name "Faith-Ndanu"
+git commit -m "created files"
+git branch
+git remote add origin https://github.com/Faith-Ndanu/Forms-Tables.git
+git push -u origin master
+git init
+git add index.html index2.html index3.html
+git init
+git add .
+git commit -m "deleted 2 files"
+git remote add origin https://github.com/Faith-Ndanu/Forms-T.git
+git push -u origin master
+git init
+git add .
+git commit -m "added files"
+git remote add origin
+git remote add origin https://github.com/Faith-Ndanu/Forms-T.git
+git push -u origin master
+git commit -m "deleted file"
+git remote add origin https://github.com/Faith-Ndanu/Forms-T.git
+git push -u origin master
+ls
+cd Documents
+ls
+mkdir forms
+cd forms
+touch index.html index.html index.html
+code .
+clear
+mkdir forms
+ls
+cd forms
+touch index1.html index2.html index3.html
+code .
+rm index2.html
+ls
+touch indextwo.html
+pythn3 --version
+python3 --version
+clear
+python3 --version
+python3
+python --version
+mkdir kotlin
+cd kotlin
+touch Assignments
+cd src
+ls
+cd Main.kt
+cd main
+ls
+cd kotlin
+git init
+git add .
+git commit -m "add files"
+git remote add origin https://github.com/Faith-Ndanu/Kotlin-Assignment.git
+git push -u origin master

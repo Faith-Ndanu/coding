@@ -1,0 +1,40 @@
+#forms{
+    border: solid 1px;
+    padding: 20px 10px;
+    margin: 0 auto;
+    border-radius: 20px 20px 20px 20px;
+    width: 40%;
+    text-align: center;
+
+}
+#ima{
+width: 40px;
+height: 50px;
+}
+#ima2{
+    width: 40px;
+    height: 50px;
+}
+#ima3{
+    width: 40px;
+    height: 50px;
+}
+#ima4{
+    width: 40px;
+    height: 50px;
+}
+#ima5{
+    width: 40px;
+    height: 50px;
+}
+#ima6{
+    width: 15px;
+    height: 20px;
+}
+#try{
+    text-align: end;
+}
+#ima7{
+    width: 25px;
+    height: 30px;
+}

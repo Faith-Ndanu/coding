@@ -1,0 +1,39 @@
+2024/02/21-23:01:00.808 d7d Reusing MANIFEST /home/student/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/02/21-23:01:00.817 d7d Recovering log #70
+2024/02/21-23:01:00.818 d7d Reusing old log /home/student/.config/google-chrome/Default/Sync Data/LevelDB/000070.log 
+2024/02/21-23:19:16.355 d88 Level-0 table #74: started
+2024/02/21-23:19:16.360 d88 Level-0 table #74: 64289 bytes OK
+2024/02/21-23:19:16.364 d88 Delete type=0 #70
+2024/02/22-01:49:28.647 d7c Level-0 table #76: started
+2024/02/22-01:49:28.652 d7c Level-0 table #76: 87366 bytes OK
+2024/02/22-01:49:28.656 d7c Delete type=0 #73
+2024/02/22-01:49:28.656 d7c Compacting 4@0 + 1@1 files
+2024/02/22-01:49:28.661 d7c Generated table #77@0: 140 keys, 17069 bytes
+2024/02/22-01:49:28.661 d7c Compacted 4@0 + 1@1 files => 17069 bytes
+2024/02/22-01:49:28.665 d7c compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/22-01:49:28.665 d7c Delete type=2 #67
+2024/02/22-01:49:28.665 d7c Delete type=2 #76
+2024/02/22-01:49:28.665 d7c Delete type=2 #71
+2024/02/22-01:49:28.665 d7c Delete type=2 #74
+2024/02/22-01:49:28.665 d7c Delete type=2 #69
+2024/02/22-02:42:04.711 d88 Level-0 table #79: started
+2024/02/22-02:42:04.717 d88 Level-0 table #79: 156473 bytes OK
+2024/02/22-02:42:04.721 d88 Delete type=0 #75
+2024/02/22-03:29:28.484 d7d Level-0 table #81: started
+2024/02/22-03:29:28.490 d7d Level-0 table #81: 86899 bytes OK
+2024/02/22-03:29:28.493 d7d Delete type=0 #78
+2024/02/22-05:16:52.456 d7d Level-0 table #83: started
+2024/02/22-05:16:52.459 d7d Level-0 table #83: 65292 bytes OK
+2024/02/22-05:16:52.462 d7d Delete type=0 #80
+2024/02/22-05:36:00.610 d7d Level-0 table #85: started
+2024/02/22-05:36:00.616 d7d Level-0 table #85: 80177 bytes OK
+2024/02/22-05:36:00.619 d7d Delete type=0 #82
+2024/02/22-05:36:00.620 d7d Compacting 4@0 + 1@1 files
+2024/02/22-05:36:00.625 d7d Generated table #86@0: 140 keys, 18912 bytes
+2024/02/22-05:36:00.625 d7d Compacted 4@0 + 1@1 files => 18912 bytes
+2024/02/22-05:36:00.628 d7d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/22-05:36:00.628 d7d Delete type=2 #81
+2024/02/22-05:36:00.628 d7d Delete type=2 #83
+2024/02/22-05:36:00.628 d7d Delete type=2 #85
+2024/02/22-05:36:00.628 d7d Delete type=2 #77
+2024/02/22-05:36:00.628 d7d Delete type=2 #79

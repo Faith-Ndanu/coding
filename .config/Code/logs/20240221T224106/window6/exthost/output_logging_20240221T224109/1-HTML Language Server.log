@@ -1,0 +1,48 @@
+[Error - 10:56:33 PM] Error while computing completions for file:///home/student/css-assignment3/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1362693)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:816181)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:815452)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:817021)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1328211)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1314288
+[Error - 10:56:34 PM] Error while computing completions for file:///home/student/css-assignment3/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1362693)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:816181)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:815452)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:817021)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1328211)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1314288
+[Error - 10:56:35 PM] Error while computing completions for file:///home/student/css-assignment3/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1362693)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:816181)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:815452)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:817021)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1328211)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1314288
+[Error - 10:56:35 PM] Error while computing completions for file:///home/student/css-assignment3/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1362693)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:816181)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:815452)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:817021)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1328211)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1314288
+[Error - 10:56:36 PM] Error while computing completions for file:///home/student/css-assignment3/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1362693)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:816181)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:815452)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:817021)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1328211)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1314288
+[Error - 10:56:38 PM] Error while computing completions for file:///home/student/css-assignment3/index.html: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+Error: Range#create called with invalid arguments[[object Object], [object Object], undefined, undefined]
+    at e.create (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1362693)
+    at V (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:816181)
+    at j.computeCompletions (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:815452)
+    at J.doComplete2 (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:817021)
+    at doComplete (/usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1328211)
+    at /usr/share/code/resources/app/extensions/html-language-features/server/dist/node/htmlServerMain.js:1:1314288

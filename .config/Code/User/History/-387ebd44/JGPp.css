@@ -1,0 +1,18 @@
+#body{
+    border-color: blue;
+    border-style: block;
+    padding: 20px 20px 20px 20px;
+    margin: 5% ;  
+    border: solid 1px;
+    background-color: chartreuse;
+    text-align: center;
+}
+#ima1{
+    width: 100px;
+    height: 100px;
+    vertical-align: auto;
+
+}
+#ima2{
+    
+}

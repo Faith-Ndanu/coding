@@ -1,0 +1,6 @@
+2024/02/19-04:03:54.845 958 Creating DB /home/student/.config/google-chrome/Default/IndexedDB/https_smartregister.atlassian.net_0.indexeddb.leveldb since it was missing.
+2024/02/19-04:03:54.856 958 Reusing MANIFEST /home/student/.config/google-chrome/Default/IndexedDB/https_smartregister.atlassian.net_0.indexeddb.leveldb/MANIFEST-000001
+2024/02/19-07:08:13.043 959 Level-0 table #5: started
+2024/02/19-07:08:13.051 959 Level-0 table #5: 754601 bytes OK
+2024/02/19-07:08:13.055 959 Delete type=0 #3
+2024/02/19-07:08:13.056 959 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
