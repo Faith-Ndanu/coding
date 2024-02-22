@@ -17939,3 +17939,33 @@
   "ok": true,
   "experiments": []
 }
+[02/22/24, 05:57:19:914] info: Feature Check: requesting features from https://app.slack.com/api/ 
+[02/22/24, 05:57:20:493] info: Breadcrumb: electron.net: undefined 
+{
+  "url": "https://app.slack.com/api/desktop.features",
+  "method": "GET",
+  "status_code": 200
+}
+[02/22/24, 05:57:20:495] info: Feature Check: received experiments 
+{
+  "ok": true,
+  "experiments": []
+}
+[02/22/24, 05:59:13:499] info: authCookieBreadcrumb: change to auth cookie 
+{
+  "sessionId": "PROD_DEFAULT_SESSION",
+  "cause": "overwrite",
+  "removed": true,
+  "cookie_name": "d",
+  "domain": ".slack.com",
+  "expiration": 1743154289.171153
+}
+[02/22/24, 05:59:13:500] info: authCookieBreadcrumb: change to auth cookie 
+{
+  "sessionId": "PROD_DEFAULT_SESSION",
+  "cause": "explicit",
+  "removed": false,
+  "cookie_name": "d",
+  "domain": ".slack.com",
+  "expiration": 1743159553.499386
+}

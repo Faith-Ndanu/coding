@@ -130,3 +130,13 @@ git commit -m "created file"
 clear
 git init
 git add .
+rm -rf .git
+git init
+git add .
+rm  Css-Assignment
+rm -rf Css-Assignment
+git init
+git add .
+git commit -m "added files"
+git remote add origin https://github.com/Faith-Ndanu/coding.git
+git push -u origin master
